@@ -1,0 +1,6633 @@
+{
+  "flights": [
+    {
+      "id": "FL-1000",
+      "airline": "British Airways",
+      "airlineLogo": "shield",
+      "departureCity": "New York",
+      "departureCode": "JFK",
+      "arrivalCity": "London",
+      "arrivalCode": "LHR",
+      "departureTime": "2026-07-15T08:30:00Z",
+      "arrivalTime": "2026-07-15T20:45:00Z",
+      "duration": "7h 15m",
+      "basePrice": 450.0,
+      "cabinLayout": {
+        "aircraft": "Boeing 787-9",
+        "rows": 10,
+        "configuration": "3-3",
+        "seats": [
+          {
+            "id": "1A",
+            "row": 1,
+            "number": "A",
+            "class": "business",
+            "status": "available",
+            "priceMarkup": 150.0
+          },
+          {
+            "id": "1B",
+            "row": 1,
+            "number": "B",
+            "class": "business",
+            "status": "occupied",
+            "priceMarkup": 150.0
+          },
+          {
+            "id": "1C",
+            "row": 1,
+            "number": "C",
+            "class": "business",
+            "status": "available",
+            "priceMarkup": 150.0
+          },
+          {
+            "id": "1D",
+            "row": 1,
+            "number": "D",
+            "class": "business",
+            "status": "available",
+            "priceMarkup": 150.0
+          },
+          {
+            "id": "1E",
+            "row": 1,
+            "number": "E",
+            "class": "business",
+            "status": "occupied",
+            "priceMarkup": 150.0
+          },
+          {
+            "id": "1F",
+            "row": 1,
+            "number": "F",
+            "class": "business",
+            "status": "available",
+            "priceMarkup": 150.0
+          },
+          {
+            "id": "2A",
+            "row": 2,
+            "number": "A",
+            "class": "premium",
+            "status": "available",
+            "priceMarkup": 60.0
+          },
+          {
+            "id": "2B",
+            "row": 2,
+            "number": "B",
+            "class": "premium",
+            "status": "available",
+            "priceMarkup": 60.0
+          },
+          {
+            "id": "2C",
+            "row": 2,
+            "number": "C",
+            "class": "premium",
+            "status": "occupied",
+            "priceMarkup": 60.0
+          },
+          {
+            "id": "2D",
+            "row": 2,
+            "number": "D",
+            "class": "premium",
+            "status": "available",
+            "priceMarkup": 60.0
+          },
+          {
+            "id": "2E",
+            "row": 2,
+            "number": "E",
+            "class": "premium",
+            "status": "available",
+            "priceMarkup": 60.0
+          },
+          {
+            "id": "2F",
+            "row": 2,
+            "number": "F",
+            "class": "premium",
+            "status": "occupied",
+            "priceMarkup": 60.0
+          },
+          {
+            "id": "3A",
+            "row": 3,
+            "number": "A",
+            "class": "economy",
+            "status": "available",
+            "priceMarkup": 0.0
+          },
+          {
+            "id": "3B",
+            "row": 3,
+            "number": "B",
+            "class": "economy",
+            "status": "occupied",
+            "priceMarkup": 0.0
+          },
+          {
+            "id": "3C",
+            "row": 3,
+            "number": "C",
+            "class": "economy",
+            "status": "available",
+            "priceMarkup": 0.0
+          },
+          {
+            "id": "3D",
+            "row": 3,
+            "number": "D",
+            "class": "economy",
+            "status": "occupied",
+            "priceMarkup": 0.0
+          },
+          {
+            "id": "3E",
+            "row": 3,
+            "number": "E",
+            "class": "economy",
+            "status": "available",
+            "priceMarkup": 0.0
+          },
+          {
+            "id": "3F",
+            "row": 3,
+            "number": "F",
+            "class": "economy",
+            "status": "available",
+            "priceMarkup": 0.0
+          }
+        ]
+      },
+      "airlineLogoUrl": "https://www.google.com/s2/favicons?domain=britishairways.com&sz=128"
+    },
+    {
+      "id": "FL-1001",
+      "airline": "British Airways",
+      "airlineLogo": "shield",
+      "departureCity": "New York",
+      "departureCode": "JFK",
+      "arrivalCity": "London",
+      "arrivalCode": "LHR",
+      "departureTime": "2026-07-15T10:30:00Z",
+      "arrivalTime": "2026-07-15T22:45:00Z",
+      "duration": "7h 15m",
+      "basePrice": 475.0,
+      "cabinLayout": {
+        "aircraft": "Boeing 787-9",
+        "rows": 10,
+        "configuration": "3-3",
+        "seats": [
+          {
+            "id": "1A",
+            "row": 1,
+            "number": "A",
+            "class": "business",
+            "status": "available",
+            "priceMarkup": 150.0
+          },
+          {
+            "id": "1B",
+            "row": 1,
+            "number": "B",
+            "class": "business",
+            "status": "occupied",
+            "priceMarkup": 150.0
+          },
+          {
+            "id": "1C",
+            "row": 1,
+            "number": "C",
+            "class": "business",
+            "status": "available",
+            "priceMarkup": 150.0
+          },
+          {
+            "id": "1D",
+            "row": 1,
+            "number": "D",
+            "class": "business",
+            "status": "available",
+            "priceMarkup": 150.0
+          },
+          {
+            "id": "1E",
+            "row": 1,
+            "number": "E",
+            "class": "business",
+            "status": "occupied",
+            "priceMarkup": 150.0
+          },
+          {
+            "id": "1F",
+            "row": 1,
+            "number": "F",
+            "class": "business",
+            "status": "available",
+            "priceMarkup": 150.0
+          },
+          {
+            "id": "2A",
+            "row": 2,
+            "number": "A",
+            "class": "premium",
+            "status": "available",
+            "priceMarkup": 60.0
+          },
+          {
+            "id": "2B",
+            "row": 2,
+            "number": "B",
+            "class": "premium",
+            "status": "available",
+            "priceMarkup": 60.0
+          },
+          {
+            "id": "2C",
+            "row": 2,
+            "number": "C",
+            "class": "premium",
+            "status": "occupied",
+            "priceMarkup": 60.0
+          },
+          {
+            "id": "2D",
+            "row": 2,
+            "number": "D",
+            "class": "premium",
+            "status": "available",
+            "priceMarkup": 60.0
+          },
+          {
+            "id": "2E",
+            "row": 2,
+            "number": "E",
+            "class": "premium",
+            "status": "available",
+            "priceMarkup": 60.0
+          },
+          {
+            "id": "2F",
+            "row": 2,
+            "number": "F",
+            "class": "premium",
+            "status": "occupied",
+            "priceMarkup": 60.0
+          },
+          {
+            "id": "3A",
+            "row": 3,
+            "number": "A",
+            "class": "economy",
+            "status": "available",
+            "priceMarkup": 0.0
+          },
+          {
+            "id": "3B",
+            "row": 3,
+            "number": "B",
+            "class": "economy",
+            "status": "occupied",
+            "priceMarkup": 0.0
+          },
+          {
+            "id": "3C",
+            "row": 3,
+            "number": "C",
+            "class": "economy",
+            "status": "available",
+            "priceMarkup": 0.0
+          },
+          {
+            "id": "3D",
+            "row": 3,
+            "number": "D",
+            "class": "economy",
+            "status": "occupied",
+            "priceMarkup": 0.0
+          },
+          {
+            "id": "3E",
+            "row": 3,
+            "number": "E",
+            "class": "economy",
+            "status": "available",
+            "priceMarkup": 0.0
+          },
+          {
+            "id": "3F",
+            "row": 3,
+            "number": "F",
+            "class": "economy",
+            "status": "available",
+            "priceMarkup": 0.0
+          }
+        ]
+      },
+      "airlineLogoUrl": "https://www.google.com/s2/favicons?domain=britishairways.com&sz=128"
+    },
+    {
+      "id": "FL-1002",
+      "airline": "British Airways",
+      "airlineLogo": "shield",
+      "departureCity": "New York",
+      "departureCode": "JFK",
+      "arrivalCity": "London",
+      "arrivalCode": "LHR",
+      "departureTime": "2026-07-15T12:30:00Z",
+      "arrivalTime": "2026-07-16T00:45:00Z",
+      "duration": "7h 15m",
+      "basePrice": 500.0,
+      "cabinLayout": {
+        "aircraft": "Boeing 787-9",
+        "rows": 10,
+        "configuration": "3-3",
+        "seats": [
+          {
+            "id": "1A",
+            "row": 1,
+            "number": "A",
+            "class": "business",
+            "status": "available",
+            "priceMarkup": 150.0
+          },
+          {
+            "id": "1B",
+            "row": 1,
+            "number": "B",
+            "class": "business",
+            "status": "occupied",
+            "priceMarkup": 150.0
+          },
+          {
+            "id": "1C",
+            "row": 1,
+            "number": "C",
+            "class": "business",
+            "status": "available",
+            "priceMarkup": 150.0
+          },
+          {
+            "id": "1D",
+            "row": 1,
+            "number": "D",
+            "class": "business",
+            "status": "available",
+            "priceMarkup": 150.0
+          },
+          {
+            "id": "1E",
+            "row": 1,
+            "number": "E",
+            "class": "business",
+            "status": "occupied",
+            "priceMarkup": 150.0
+          },
+          {
+            "id": "1F",
+            "row": 1,
+            "number": "F",
+            "class": "business",
+            "status": "available",
+            "priceMarkup": 150.0
+          },
+          {
+            "id": "2A",
+            "row": 2,
+            "number": "A",
+            "class": "premium",
+            "status": "available",
+            "priceMarkup": 60.0
+          },
+          {
+            "id": "2B",
+            "row": 2,
+            "number": "B",
+            "class": "premium",
+            "status": "available",
+            "priceMarkup": 60.0
+          },
+          {
+            "id": "2C",
+            "row": 2,
+            "number": "C",
+            "class": "premium",
+            "status": "occupied",
+            "priceMarkup": 60.0
+          },
+          {
+            "id": "2D",
+            "row": 2,
+            "number": "D",
+            "class": "premium",
+            "status": "available",
+            "priceMarkup": 60.0
+          },
+          {
+            "id": "2E",
+            "row": 2,
+            "number": "E",
+            "class": "premium",
+            "status": "available",
+            "priceMarkup": 60.0
+          },
+          {
+            "id": "2F",
+            "row": 2,
+            "number": "F",
+            "class": "premium",
+            "status": "occupied",
+            "priceMarkup": 60.0
+          },
+          {
+            "id": "3A",
+            "row": 3,
+            "number": "A",
+            "class": "economy",
+            "status": "available",
+            "priceMarkup": 0.0
+          },
+          {
+            "id": "3B",
+            "row": 3,
+            "number": "B",
+            "class": "economy",
+            "status": "occupied",
+            "priceMarkup": 0.0
+          },
+          {
+            "id": "3C",
+            "row": 3,
+            "number": "C",
+            "class": "economy",
+            "status": "available",
+            "priceMarkup": 0.0
+          },
+          {
+            "id": "3D",
+            "row": 3,
+            "number": "D",
+            "class": "economy",
+            "status": "occupied",
+            "priceMarkup": 0.0
+          },
+          {
+            "id": "3E",
+            "row": 3,
+            "number": "E",
+            "class": "economy",
+            "status": "available",
+            "priceMarkup": 0.0
+          },
+          {
+            "id": "3F",
+            "row": 3,
+            "number": "F",
+            "class": "economy",
+            "status": "available",
+            "priceMarkup": 0.0
+          }
+        ]
+      },
+      "airlineLogoUrl": "https://www.google.com/s2/favicons?domain=britishairways.com&sz=128"
+    },
+    {
+      "id": "FL-1003",
+      "airline": "British Airways",
+      "airlineLogo": "shield",
+      "departureCity": "New York",
+      "departureCode": "JFK",
+      "arrivalCity": "London",
+      "arrivalCode": "LHR",
+      "departureTime": "2026-07-15T14:30:00Z",
+      "arrivalTime": "2026-07-16T02:45:00Z",
+      "duration": "7h 15m",
+      "basePrice": 525.0,
+      "cabinLayout": {
+        "aircraft": "Boeing 787-9",
+        "rows": 10,
+        "configuration": "3-3",
+        "seats": [
+          {
+            "id": "1A",
+            "row": 1,
+            "number": "A",
+            "class": "business",
+            "status": "available",
+            "priceMarkup": 150.0
+          },
+          {
+            "id": "1B",
+            "row": 1,
+            "number": "B",
+            "class": "business",
+            "status": "occupied",
+            "priceMarkup": 150.0
+          },
+          {
+            "id": "1C",
+            "row": 1,
+            "number": "C",
+            "class": "business",
+            "status": "available",
+            "priceMarkup": 150.0
+          },
+          {
+            "id": "1D",
+            "row": 1,
+            "number": "D",
+            "class": "business",
+            "status": "available",
+            "priceMarkup": 150.0
+          },
+          {
+            "id": "1E",
+            "row": 1,
+            "number": "E",
+            "class": "business",
+            "status": "occupied",
+            "priceMarkup": 150.0
+          },
+          {
+            "id": "1F",
+            "row": 1,
+            "number": "F",
+            "class": "business",
+            "status": "available",
+            "priceMarkup": 150.0
+          },
+          {
+            "id": "2A",
+            "row": 2,
+            "number": "A",
+            "class": "premium",
+            "status": "available",
+            "priceMarkup": 60.0
+          },
+          {
+            "id": "2B",
+            "row": 2,
+            "number": "B",
+            "class": "premium",
+            "status": "available",
+            "priceMarkup": 60.0
+          },
+          {
+            "id": "2C",
+            "row": 2,
+            "number": "C",
+            "class": "premium",
+            "status": "occupied",
+            "priceMarkup": 60.0
+          },
+          {
+            "id": "2D",
+            "row": 2,
+            "number": "D",
+            "class": "premium",
+            "status": "available",
+            "priceMarkup": 60.0
+          },
+          {
+            "id": "2E",
+            "row": 2,
+            "number": "E",
+            "class": "premium",
+            "status": "available",
+            "priceMarkup": 60.0
+          },
+          {
+            "id": "2F",
+            "row": 2,
+            "number": "F",
+            "class": "premium",
+            "status": "occupied",
+            "priceMarkup": 60.0
+          },
+          {
+            "id": "3A",
+            "row": 3,
+            "number": "A",
+            "class": "economy",
+            "status": "available",
+            "priceMarkup": 0.0
+          },
+          {
+            "id": "3B",
+            "row": 3,
+            "number": "B",
+            "class": "economy",
+            "status": "occupied",
+            "priceMarkup": 0.0
+          },
+          {
+            "id": "3C",
+            "row": 3,
+            "number": "C",
+            "class": "economy",
+            "status": "available",
+            "priceMarkup": 0.0
+          },
+          {
+            "id": "3D",
+            "row": 3,
+            "number": "D",
+            "class": "economy",
+            "status": "occupied",
+            "priceMarkup": 0.0
+          },
+          {
+            "id": "3E",
+            "row": 3,
+            "number": "E",
+            "class": "economy",
+            "status": "available",
+            "priceMarkup": 0.0
+          },
+          {
+            "id": "3F",
+            "row": 3,
+            "number": "F",
+            "class": "economy",
+            "status": "available",
+            "priceMarkup": 0.0
+          }
+        ]
+      },
+      "airlineLogoUrl": "https://www.google.com/s2/favicons?domain=britishairways.com&sz=128"
+    },
+    {
+      "id": "FL-1004",
+      "airline": "British Airways",
+      "airlineLogo": "shield",
+      "departureCity": "New York",
+      "departureCode": "JFK",
+      "arrivalCity": "London",
+      "arrivalCode": "LHR",
+      "departureTime": "2026-07-15T16:30:00Z",
+      "arrivalTime": "2026-07-16T04:45:00Z",
+      "duration": "7h 15m",
+      "basePrice": 550.0,
+      "cabinLayout": {
+        "aircraft": "Boeing 787-9",
+        "rows": 10,
+        "configuration": "3-3",
+        "seats": [
+          {
+            "id": "1A",
+            "row": 1,
+            "number": "A",
+            "class": "business",
+            "status": "available",
+            "priceMarkup": 150.0
+          },
+          {
+            "id": "1B",
+            "row": 1,
+            "number": "B",
+            "class": "business",
+            "status": "occupied",
+            "priceMarkup": 150.0
+          },
+          {
+            "id": "1C",
+            "row": 1,
+            "number": "C",
+            "class": "business",
+            "status": "available",
+            "priceMarkup": 150.0
+          },
+          {
+            "id": "1D",
+            "row": 1,
+            "number": "D",
+            "class": "business",
+            "status": "available",
+            "priceMarkup": 150.0
+          },
+          {
+            "id": "1E",
+            "row": 1,
+            "number": "E",
+            "class": "business",
+            "status": "occupied",
+            "priceMarkup": 150.0
+          },
+          {
+            "id": "1F",
+            "row": 1,
+            "number": "F",
+            "class": "business",
+            "status": "available",
+            "priceMarkup": 150.0
+          },
+          {
+            "id": "2A",
+            "row": 2,
+            "number": "A",
+            "class": "premium",
+            "status": "available",
+            "priceMarkup": 60.0
+          },
+          {
+            "id": "2B",
+            "row": 2,
+            "number": "B",
+            "class": "premium",
+            "status": "available",
+            "priceMarkup": 60.0
+          },
+          {
+            "id": "2C",
+            "row": 2,
+            "number": "C",
+            "class": "premium",
+            "status": "occupied",
+            "priceMarkup": 60.0
+          },
+          {
+            "id": "2D",
+            "row": 2,
+            "number": "D",
+            "class": "premium",
+            "status": "available",
+            "priceMarkup": 60.0
+          },
+          {
+            "id": "2E",
+            "row": 2,
+            "number": "E",
+            "class": "premium",
+            "status": "available",
+            "priceMarkup": 60.0
+          },
+          {
+            "id": "2F",
+            "row": 2,
+            "number": "F",
+            "class": "premium",
+            "status": "occupied",
+            "priceMarkup": 60.0
+          },
+          {
+            "id": "3A",
+            "row": 3,
+            "number": "A",
+            "class": "economy",
+            "status": "available",
+            "priceMarkup": 0.0
+          },
+          {
+            "id": "3B",
+            "row": 3,
+            "number": "B",
+            "class": "economy",
+            "status": "occupied",
+            "priceMarkup": 0.0
+          },
+          {
+            "id": "3C",
+            "row": 3,
+            "number": "C",
+            "class": "economy",
+            "status": "available",
+            "priceMarkup": 0.0
+          },
+          {
+            "id": "3D",
+            "row": 3,
+            "number": "D",
+            "class": "economy",
+            "status": "occupied",
+            "priceMarkup": 0.0
+          },
+          {
+            "id": "3E",
+            "row": 3,
+            "number": "E",
+            "class": "economy",
+            "status": "available",
+            "priceMarkup": 0.0
+          },
+          {
+            "id": "3F",
+            "row": 3,
+            "number": "F",
+            "class": "economy",
+            "status": "available",
+            "priceMarkup": 0.0
+          }
+        ]
+      },
+      "airlineLogoUrl": "https://www.google.com/s2/favicons?domain=britishairways.com&sz=128"
+    },
+    {
+      "id": "FL-1005",
+      "airline": "British Airways",
+      "airlineLogo": "shield",
+      "departureCity": "New York",
+      "departureCode": "JFK",
+      "arrivalCity": "London",
+      "arrivalCode": "LHR",
+      "departureTime": "2026-07-15T18:30:00Z",
+      "arrivalTime": "2026-07-16T06:45:00Z",
+      "duration": "7h 15m",
+      "basePrice": 575.0,
+      "cabinLayout": {
+        "aircraft": "Boeing 787-9",
+        "rows": 10,
+        "configuration": "3-3",
+        "seats": [
+          {
+            "id": "1A",
+            "row": 1,
+            "number": "A",
+            "class": "business",
+            "status": "available",
+            "priceMarkup": 150.0
+          },
+          {
+            "id": "1B",
+            "row": 1,
+            "number": "B",
+            "class": "business",
+            "status": "occupied",
+            "priceMarkup": 150.0
+          },
+          {
+            "id": "1C",
+            "row": 1,
+            "number": "C",
+            "class": "business",
+            "status": "available",
+            "priceMarkup": 150.0
+          },
+          {
+            "id": "1D",
+            "row": 1,
+            "number": "D",
+            "class": "business",
+            "status": "available",
+            "priceMarkup": 150.0
+          },
+          {
+            "id": "1E",
+            "row": 1,
+            "number": "E",
+            "class": "business",
+            "status": "occupied",
+            "priceMarkup": 150.0
+          },
+          {
+            "id": "1F",
+            "row": 1,
+            "number": "F",
+            "class": "business",
+            "status": "available",
+            "priceMarkup": 150.0
+          },
+          {
+            "id": "2A",
+            "row": 2,
+            "number": "A",
+            "class": "premium",
+            "status": "available",
+            "priceMarkup": 60.0
+          },
+          {
+            "id": "2B",
+            "row": 2,
+            "number": "B",
+            "class": "premium",
+            "status": "available",
+            "priceMarkup": 60.0
+          },
+          {
+            "id": "2C",
+            "row": 2,
+            "number": "C",
+            "class": "premium",
+            "status": "occupied",
+            "priceMarkup": 60.0
+          },
+          {
+            "id": "2D",
+            "row": 2,
+            "number": "D",
+            "class": "premium",
+            "status": "available",
+            "priceMarkup": 60.0
+          },
+          {
+            "id": "2E",
+            "row": 2,
+            "number": "E",
+            "class": "premium",
+            "status": "available",
+            "priceMarkup": 60.0
+          },
+          {
+            "id": "2F",
+            "row": 2,
+            "number": "F",
+            "class": "premium",
+            "status": "occupied",
+            "priceMarkup": 60.0
+          },
+          {
+            "id": "3A",
+            "row": 3,
+            "number": "A",
+            "class": "economy",
+            "status": "available",
+            "priceMarkup": 0.0
+          },
+          {
+            "id": "3B",
+            "row": 3,
+            "number": "B",
+            "class": "economy",
+            "status": "occupied",
+            "priceMarkup": 0.0
+          },
+          {
+            "id": "3C",
+            "row": 3,
+            "number": "C",
+            "class": "economy",
+            "status": "available",
+            "priceMarkup": 0.0
+          },
+          {
+            "id": "3D",
+            "row": 3,
+            "number": "D",
+            "class": "economy",
+            "status": "occupied",
+            "priceMarkup": 0.0
+          },
+          {
+            "id": "3E",
+            "row": 3,
+            "number": "E",
+            "class": "economy",
+            "status": "available",
+            "priceMarkup": 0.0
+          },
+          {
+            "id": "3F",
+            "row": 3,
+            "number": "F",
+            "class": "economy",
+            "status": "available",
+            "priceMarkup": 0.0
+          }
+        ]
+      },
+      "airlineLogoUrl": "https://www.google.com/s2/favicons?domain=britishairways.com&sz=128"
+    },
+    {
+      "id": "FL-1006",
+      "airline": "British Airways",
+      "airlineLogo": "shield",
+      "departureCity": "New York",
+      "departureCode": "JFK",
+      "arrivalCity": "London",
+      "arrivalCode": "LHR",
+      "departureTime": "2026-07-15T20:30:00Z",
+      "arrivalTime": "2026-07-16T08:45:00Z",
+      "duration": "7h 15m",
+      "basePrice": 600.0,
+      "cabinLayout": {
+        "aircraft": "Boeing 787-9",
+        "rows": 10,
+        "configuration": "3-3",
+        "seats": [
+          {
+            "id": "1A",
+            "row": 1,
+            "number": "A",
+            "class": "business",
+            "status": "available",
+            "priceMarkup": 150.0
+          },
+          {
+            "id": "1B",
+            "row": 1,
+            "number": "B",
+            "class": "business",
+            "status": "occupied",
+            "priceMarkup": 150.0
+          },
+          {
+            "id": "1C",
+            "row": 1,
+            "number": "C",
+            "class": "business",
+            "status": "available",
+            "priceMarkup": 150.0
+          },
+          {
+            "id": "1D",
+            "row": 1,
+            "number": "D",
+            "class": "business",
+            "status": "available",
+            "priceMarkup": 150.0
+          },
+          {
+            "id": "1E",
+            "row": 1,
+            "number": "E",
+            "class": "business",
+            "status": "occupied",
+            "priceMarkup": 150.0
+          },
+          {
+            "id": "1F",
+            "row": 1,
+            "number": "F",
+            "class": "business",
+            "status": "available",
+            "priceMarkup": 150.0
+          },
+          {
+            "id": "2A",
+            "row": 2,
+            "number": "A",
+            "class": "premium",
+            "status": "available",
+            "priceMarkup": 60.0
+          },
+          {
+            "id": "2B",
+            "row": 2,
+            "number": "B",
+            "class": "premium",
+            "status": "available",
+            "priceMarkup": 60.0
+          },
+          {
+            "id": "2C",
+            "row": 2,
+            "number": "C",
+            "class": "premium",
+            "status": "occupied",
+            "priceMarkup": 60.0
+          },
+          {
+            "id": "2D",
+            "row": 2,
+            "number": "D",
+            "class": "premium",
+            "status": "available",
+            "priceMarkup": 60.0
+          },
+          {
+            "id": "2E",
+            "row": 2,
+            "number": "E",
+            "class": "premium",
+            "status": "available",
+            "priceMarkup": 60.0
+          },
+          {
+            "id": "2F",
+            "row": 2,
+            "number": "F",
+            "class": "premium",
+            "status": "occupied",
+            "priceMarkup": 60.0
+          },
+          {
+            "id": "3A",
+            "row": 3,
+            "number": "A",
+            "class": "economy",
+            "status": "available",
+            "priceMarkup": 0.0
+          },
+          {
+            "id": "3B",
+            "row": 3,
+            "number": "B",
+            "class": "economy",
+            "status": "occupied",
+            "priceMarkup": 0.0
+          },
+          {
+            "id": "3C",
+            "row": 3,
+            "number": "C",
+            "class": "economy",
+            "status": "available",
+            "priceMarkup": 0.0
+          },
+          {
+            "id": "3D",
+            "row": 3,
+            "number": "D",
+            "class": "economy",
+            "status": "occupied",
+            "priceMarkup": 0.0
+          },
+          {
+            "id": "3E",
+            "row": 3,
+            "number": "E",
+            "class": "economy",
+            "status": "available",
+            "priceMarkup": 0.0
+          },
+          {
+            "id": "3F",
+            "row": 3,
+            "number": "F",
+            "class": "economy",
+            "status": "available",
+            "priceMarkup": 0.0
+          }
+        ]
+      },
+      "airlineLogoUrl": "https://www.google.com/s2/favicons?domain=britishairways.com&sz=128"
+    },
+    {
+      "id": "FL-1010",
+      "airline": "Air France",
+      "airlineLogo": "compass",
+      "departureCity": "New York",
+      "departureCode": "JFK",
+      "arrivalCity": "Paris",
+      "arrivalCode": "CDG",
+      "departureTime": "2026-07-15T14:15:00Z",
+      "arrivalTime": "2026-07-16T03:30:00Z",
+      "duration": "8h 15m",
+      "basePrice": 520.0,
+      "cabinLayout": {
+        "aircraft": "Airbus A350-1000",
+        "rows": 12,
+        "configuration": "3-3",
+        "seats": [
+          {
+            "id": "1A",
+            "row": 1,
+            "number": "A",
+            "class": "business",
+            "status": "available",
+            "priceMarkup": 200.0
+          },
+          {
+            "id": "1B",
+            "row": 1,
+            "number": "B",
+            "class": "business",
+            "status": "available",
+            "priceMarkup": 200.0
+          },
+          {
+            "id": "1C",
+            "row": 1,
+            "number": "C",
+            "class": "business",
+            "status": "occupied",
+            "priceMarkup": 200.0
+          },
+          {
+            "id": "1D",
+            "row": 1,
+            "number": "D",
+            "class": "business",
+            "status": "available",
+            "priceMarkup": 200.0
+          },
+          {
+            "id": "1E",
+            "row": 1,
+            "number": "E",
+            "class": "business",
+            "status": "occupied",
+            "priceMarkup": 200.0
+          },
+          {
+            "id": "1F",
+            "row": 1,
+            "number": "F",
+            "class": "business",
+            "status": "available",
+            "priceMarkup": 200.0
+          }
+        ]
+      },
+      "airlineLogoUrl": "https://www.google.com/s2/favicons?domain=airfrance.com&sz=128"
+    },
+    {
+      "id": "FL-1011",
+      "airline": "Air France",
+      "airlineLogo": "compass",
+      "departureCity": "New York",
+      "departureCode": "JFK",
+      "arrivalCity": "Paris",
+      "arrivalCode": "CDG",
+      "departureTime": "2026-07-15T16:15:00Z",
+      "arrivalTime": "2026-07-16T05:30:00Z",
+      "duration": "8h 15m",
+      "basePrice": 545.0,
+      "cabinLayout": {
+        "aircraft": "Airbus A350-1000",
+        "rows": 12,
+        "configuration": "3-3",
+        "seats": [
+          {
+            "id": "1A",
+            "row": 1,
+            "number": "A",
+            "class": "business",
+            "status": "available",
+            "priceMarkup": 200.0
+          },
+          {
+            "id": "1B",
+            "row": 1,
+            "number": "B",
+            "class": "business",
+            "status": "available",
+            "priceMarkup": 200.0
+          },
+          {
+            "id": "1C",
+            "row": 1,
+            "number": "C",
+            "class": "business",
+            "status": "occupied",
+            "priceMarkup": 200.0
+          },
+          {
+            "id": "1D",
+            "row": 1,
+            "number": "D",
+            "class": "business",
+            "status": "available",
+            "priceMarkup": 200.0
+          },
+          {
+            "id": "1E",
+            "row": 1,
+            "number": "E",
+            "class": "business",
+            "status": "occupied",
+            "priceMarkup": 200.0
+          },
+          {
+            "id": "1F",
+            "row": 1,
+            "number": "F",
+            "class": "business",
+            "status": "available",
+            "priceMarkup": 200.0
+          }
+        ]
+      },
+      "airlineLogoUrl": "https://www.google.com/s2/favicons?domain=airfrance.com&sz=128"
+    },
+    {
+      "id": "FL-1012",
+      "airline": "Air France",
+      "airlineLogo": "compass",
+      "departureCity": "New York",
+      "departureCode": "JFK",
+      "arrivalCity": "Paris",
+      "arrivalCode": "CDG",
+      "departureTime": "2026-07-15T18:15:00Z",
+      "arrivalTime": "2026-07-16T07:30:00Z",
+      "duration": "8h 15m",
+      "basePrice": 570.0,
+      "cabinLayout": {
+        "aircraft": "Airbus A350-1000",
+        "rows": 12,
+        "configuration": "3-3",
+        "seats": [
+          {
+            "id": "1A",
+            "row": 1,
+            "number": "A",
+            "class": "business",
+            "status": "available",
+            "priceMarkup": 200.0
+          },
+          {
+            "id": "1B",
+            "row": 1,
+            "number": "B",
+            "class": "business",
+            "status": "available",
+            "priceMarkup": 200.0
+          },
+          {
+            "id": "1C",
+            "row": 1,
+            "number": "C",
+            "class": "business",
+            "status": "occupied",
+            "priceMarkup": 200.0
+          },
+          {
+            "id": "1D",
+            "row": 1,
+            "number": "D",
+            "class": "business",
+            "status": "available",
+            "priceMarkup": 200.0
+          },
+          {
+            "id": "1E",
+            "row": 1,
+            "number": "E",
+            "class": "business",
+            "status": "occupied",
+            "priceMarkup": 200.0
+          },
+          {
+            "id": "1F",
+            "row": 1,
+            "number": "F",
+            "class": "business",
+            "status": "available",
+            "priceMarkup": 200.0
+          }
+        ]
+      },
+      "airlineLogoUrl": "https://www.google.com/s2/favicons?domain=airfrance.com&sz=128"
+    },
+    {
+      "id": "FL-1013",
+      "airline": "Air France",
+      "airlineLogo": "compass",
+      "departureCity": "New York",
+      "departureCode": "JFK",
+      "arrivalCity": "Paris",
+      "arrivalCode": "CDG",
+      "departureTime": "2026-07-15T20:15:00Z",
+      "arrivalTime": "2026-07-16T09:30:00Z",
+      "duration": "8h 15m",
+      "basePrice": 595.0,
+      "cabinLayout": {
+        "aircraft": "Airbus A350-1000",
+        "rows": 12,
+        "configuration": "3-3",
+        "seats": [
+          {
+            "id": "1A",
+            "row": 1,
+            "number": "A",
+            "class": "business",
+            "status": "available",
+            "priceMarkup": 200.0
+          },
+          {
+            "id": "1B",
+            "row": 1,
+            "number": "B",
+            "class": "business",
+            "status": "available",
+            "priceMarkup": 200.0
+          },
+          {
+            "id": "1C",
+            "row": 1,
+            "number": "C",
+            "class": "business",
+            "status": "occupied",
+            "priceMarkup": 200.0
+          },
+          {
+            "id": "1D",
+            "row": 1,
+            "number": "D",
+            "class": "business",
+            "status": "available",
+            "priceMarkup": 200.0
+          },
+          {
+            "id": "1E",
+            "row": 1,
+            "number": "E",
+            "class": "business",
+            "status": "occupied",
+            "priceMarkup": 200.0
+          },
+          {
+            "id": "1F",
+            "row": 1,
+            "number": "F",
+            "class": "business",
+            "status": "available",
+            "priceMarkup": 200.0
+          }
+        ]
+      },
+      "airlineLogoUrl": "https://www.google.com/s2/favicons?domain=airfrance.com&sz=128"
+    },
+    {
+      "id": "FL-1014",
+      "airline": "Air France",
+      "airlineLogo": "compass",
+      "departureCity": "New York",
+      "departureCode": "JFK",
+      "arrivalCity": "Paris",
+      "arrivalCode": "CDG",
+      "departureTime": "2026-07-15T22:15:00Z",
+      "arrivalTime": "2026-07-16T11:30:00Z",
+      "duration": "8h 15m",
+      "basePrice": 620.0,
+      "cabinLayout": {
+        "aircraft": "Airbus A350-1000",
+        "rows": 12,
+        "configuration": "3-3",
+        "seats": [
+          {
+            "id": "1A",
+            "row": 1,
+            "number": "A",
+            "class": "business",
+            "status": "available",
+            "priceMarkup": 200.0
+          },
+          {
+            "id": "1B",
+            "row": 1,
+            "number": "B",
+            "class": "business",
+            "status": "available",
+            "priceMarkup": 200.0
+          },
+          {
+            "id": "1C",
+            "row": 1,
+            "number": "C",
+            "class": "business",
+            "status": "occupied",
+            "priceMarkup": 200.0
+          },
+          {
+            "id": "1D",
+            "row": 1,
+            "number": "D",
+            "class": "business",
+            "status": "available",
+            "priceMarkup": 200.0
+          },
+          {
+            "id": "1E",
+            "row": 1,
+            "number": "E",
+            "class": "business",
+            "status": "occupied",
+            "priceMarkup": 200.0
+          },
+          {
+            "id": "1F",
+            "row": 1,
+            "number": "F",
+            "class": "business",
+            "status": "available",
+            "priceMarkup": 200.0
+          }
+        ]
+      },
+      "airlineLogoUrl": "https://www.google.com/s2/favicons?domain=airfrance.com&sz=128"
+    },
+    {
+      "id": "FL-1015",
+      "airline": "Air France",
+      "airlineLogo": "compass",
+      "departureCity": "New York",
+      "departureCode": "JFK",
+      "arrivalCity": "Paris",
+      "arrivalCode": "CDG",
+      "departureTime": "2026-07-16T00:15:00Z",
+      "arrivalTime": "2026-07-16T13:30:00Z",
+      "duration": "8h 15m",
+      "basePrice": 645.0,
+      "cabinLayout": {
+        "aircraft": "Airbus A350-1000",
+        "rows": 12,
+        "configuration": "3-3",
+        "seats": [
+          {
+            "id": "1A",
+            "row": 1,
+            "number": "A",
+            "class": "business",
+            "status": "available",
+            "priceMarkup": 200.0
+          },
+          {
+            "id": "1B",
+            "row": 1,
+            "number": "B",
+            "class": "business",
+            "status": "available",
+            "priceMarkup": 200.0
+          },
+          {
+            "id": "1C",
+            "row": 1,
+            "number": "C",
+            "class": "business",
+            "status": "occupied",
+            "priceMarkup": 200.0
+          },
+          {
+            "id": "1D",
+            "row": 1,
+            "number": "D",
+            "class": "business",
+            "status": "available",
+            "priceMarkup": 200.0
+          },
+          {
+            "id": "1E",
+            "row": 1,
+            "number": "E",
+            "class": "business",
+            "status": "occupied",
+            "priceMarkup": 200.0
+          },
+          {
+            "id": "1F",
+            "row": 1,
+            "number": "F",
+            "class": "business",
+            "status": "available",
+            "priceMarkup": 200.0
+          }
+        ]
+      },
+      "airlineLogoUrl": "https://www.google.com/s2/favicons?domain=airfrance.com&sz=128"
+    },
+    {
+      "id": "FL-1016",
+      "airline": "Air France",
+      "airlineLogo": "compass",
+      "departureCity": "New York",
+      "departureCode": "JFK",
+      "arrivalCity": "Paris",
+      "arrivalCode": "CDG",
+      "departureTime": "2026-07-16T02:15:00Z",
+      "arrivalTime": "2026-07-16T15:30:00Z",
+      "duration": "8h 15m",
+      "basePrice": 670.0,
+      "cabinLayout": {
+        "aircraft": "Airbus A350-1000",
+        "rows": 12,
+        "configuration": "3-3",
+        "seats": [
+          {
+            "id": "1A",
+            "row": 1,
+            "number": "A",
+            "class": "business",
+            "status": "available",
+            "priceMarkup": 200.0
+          },
+          {
+            "id": "1B",
+            "row": 1,
+            "number": "B",
+            "class": "business",
+            "status": "available",
+            "priceMarkup": 200.0
+          },
+          {
+            "id": "1C",
+            "row": 1,
+            "number": "C",
+            "class": "business",
+            "status": "occupied",
+            "priceMarkup": 200.0
+          },
+          {
+            "id": "1D",
+            "row": 1,
+            "number": "D",
+            "class": "business",
+            "status": "available",
+            "priceMarkup": 200.0
+          },
+          {
+            "id": "1E",
+            "row": 1,
+            "number": "E",
+            "class": "business",
+            "status": "occupied",
+            "priceMarkup": 200.0
+          },
+          {
+            "id": "1F",
+            "row": 1,
+            "number": "F",
+            "class": "business",
+            "status": "available",
+            "priceMarkup": 200.0
+          }
+        ]
+      },
+      "airlineLogoUrl": "https://www.google.com/s2/favicons?domain=airfrance.com&sz=128"
+    },
+    {
+      "id": "FL-1020",
+      "airline": "ANA",
+      "airlineLogo": "sunrise",
+      "departureCity": "San Francisco",
+      "departureCode": "SFO",
+      "arrivalCity": "Tokyo",
+      "arrivalCode": "HND",
+      "departureTime": "2026-07-15T11:00:00Z",
+      "arrivalTime": "2026-07-16T14:30:00Z",
+      "duration": "10h 30m",
+      "basePrice": 850.0,
+      "cabinLayout": {
+        "aircraft": "Boeing 777-300ER",
+        "rows": 15,
+        "configuration": "3-3",
+        "seats": [
+          {
+            "id": "1A",
+            "row": 1,
+            "number": "A",
+            "class": "first",
+            "status": "available",
+            "priceMarkup": 400.0
+          },
+          {
+            "id": "1C",
+            "row": 1,
+            "number": "C",
+            "class": "first",
+            "status": "available",
+            "priceMarkup": 400.0
+          },
+          {
+            "id": "1D",
+            "row": 1,
+            "number": "D",
+            "class": "first",
+            "status": "occupied",
+            "priceMarkup": 400.0
+          },
+          {
+            "id": "1F",
+            "row": 1,
+            "number": "F",
+            "class": "first",
+            "status": "available",
+            "priceMarkup": 400.0
+          }
+        ]
+      },
+      "airlineLogoUrl": "https://www.google.com/s2/favicons?domain=ana.co.jp&sz=128"
+    },
+    {
+      "id": "FL-1021",
+      "airline": "ANA",
+      "airlineLogo": "sunrise",
+      "departureCity": "San Francisco",
+      "departureCode": "SFO",
+      "arrivalCity": "Tokyo",
+      "arrivalCode": "HND",
+      "departureTime": "2026-07-15T13:00:00Z",
+      "arrivalTime": "2026-07-16T16:30:00Z",
+      "duration": "10h 30m",
+      "basePrice": 875.0,
+      "cabinLayout": {
+        "aircraft": "Boeing 777-300ER",
+        "rows": 15,
+        "configuration": "3-3",
+        "seats": [
+          {
+            "id": "1A",
+            "row": 1,
+            "number": "A",
+            "class": "first",
+            "status": "available",
+            "priceMarkup": 400.0
+          },
+          {
+            "id": "1C",
+            "row": 1,
+            "number": "C",
+            "class": "first",
+            "status": "available",
+            "priceMarkup": 400.0
+          },
+          {
+            "id": "1D",
+            "row": 1,
+            "number": "D",
+            "class": "first",
+            "status": "occupied",
+            "priceMarkup": 400.0
+          },
+          {
+            "id": "1F",
+            "row": 1,
+            "number": "F",
+            "class": "first",
+            "status": "available",
+            "priceMarkup": 400.0
+          }
+        ]
+      },
+      "airlineLogoUrl": "https://www.google.com/s2/favicons?domain=ana.co.jp&sz=128"
+    },
+    {
+      "id": "FL-1022",
+      "airline": "ANA",
+      "airlineLogo": "sunrise",
+      "departureCity": "San Francisco",
+      "departureCode": "SFO",
+      "arrivalCity": "Tokyo",
+      "arrivalCode": "HND",
+      "departureTime": "2026-07-15T15:00:00Z",
+      "arrivalTime": "2026-07-16T18:30:00Z",
+      "duration": "10h 30m",
+      "basePrice": 900.0,
+      "cabinLayout": {
+        "aircraft": "Boeing 777-300ER",
+        "rows": 15,
+        "configuration": "3-3",
+        "seats": [
+          {
+            "id": "1A",
+            "row": 1,
+            "number": "A",
+            "class": "first",
+            "status": "available",
+            "priceMarkup": 400.0
+          },
+          {
+            "id": "1C",
+            "row": 1,
+            "number": "C",
+            "class": "first",
+            "status": "available",
+            "priceMarkup": 400.0
+          },
+          {
+            "id": "1D",
+            "row": 1,
+            "number": "D",
+            "class": "first",
+            "status": "occupied",
+            "priceMarkup": 400.0
+          },
+          {
+            "id": "1F",
+            "row": 1,
+            "number": "F",
+            "class": "first",
+            "status": "available",
+            "priceMarkup": 400.0
+          }
+        ]
+      },
+      "airlineLogoUrl": "https://www.google.com/s2/favicons?domain=ana.co.jp&sz=128"
+    },
+    {
+      "id": "FL-1023",
+      "airline": "ANA",
+      "airlineLogo": "sunrise",
+      "departureCity": "San Francisco",
+      "departureCode": "SFO",
+      "arrivalCity": "Tokyo",
+      "arrivalCode": "HND",
+      "departureTime": "2026-07-15T17:00:00Z",
+      "arrivalTime": "2026-07-16T20:30:00Z",
+      "duration": "10h 30m",
+      "basePrice": 925.0,
+      "cabinLayout": {
+        "aircraft": "Boeing 777-300ER",
+        "rows": 15,
+        "configuration": "3-3",
+        "seats": [
+          {
+            "id": "1A",
+            "row": 1,
+            "number": "A",
+            "class": "first",
+            "status": "available",
+            "priceMarkup": 400.0
+          },
+          {
+            "id": "1C",
+            "row": 1,
+            "number": "C",
+            "class": "first",
+            "status": "available",
+            "priceMarkup": 400.0
+          },
+          {
+            "id": "1D",
+            "row": 1,
+            "number": "D",
+            "class": "first",
+            "status": "occupied",
+            "priceMarkup": 400.0
+          },
+          {
+            "id": "1F",
+            "row": 1,
+            "number": "F",
+            "class": "first",
+            "status": "available",
+            "priceMarkup": 400.0
+          }
+        ]
+      },
+      "airlineLogoUrl": "https://www.google.com/s2/favicons?domain=ana.co.jp&sz=128"
+    },
+    {
+      "id": "FL-1024",
+      "airline": "ANA",
+      "airlineLogo": "sunrise",
+      "departureCity": "San Francisco",
+      "departureCode": "SFO",
+      "arrivalCity": "Tokyo",
+      "arrivalCode": "HND",
+      "departureTime": "2026-07-15T19:00:00Z",
+      "arrivalTime": "2026-07-16T22:30:00Z",
+      "duration": "10h 30m",
+      "basePrice": 950.0,
+      "cabinLayout": {
+        "aircraft": "Boeing 777-300ER",
+        "rows": 15,
+        "configuration": "3-3",
+        "seats": [
+          {
+            "id": "1A",
+            "row": 1,
+            "number": "A",
+            "class": "first",
+            "status": "available",
+            "priceMarkup": 400.0
+          },
+          {
+            "id": "1C",
+            "row": 1,
+            "number": "C",
+            "class": "first",
+            "status": "available",
+            "priceMarkup": 400.0
+          },
+          {
+            "id": "1D",
+            "row": 1,
+            "number": "D",
+            "class": "first",
+            "status": "occupied",
+            "priceMarkup": 400.0
+          },
+          {
+            "id": "1F",
+            "row": 1,
+            "number": "F",
+            "class": "first",
+            "status": "available",
+            "priceMarkup": 400.0
+          }
+        ]
+      },
+      "airlineLogoUrl": "https://www.google.com/s2/favicons?domain=ana.co.jp&sz=128"
+    },
+    {
+      "id": "FL-1025",
+      "airline": "ANA",
+      "airlineLogo": "sunrise",
+      "departureCity": "San Francisco",
+      "departureCode": "SFO",
+      "arrivalCity": "Tokyo",
+      "arrivalCode": "HND",
+      "departureTime": "2026-07-15T21:00:00Z",
+      "arrivalTime": "2026-07-17T00:30:00Z",
+      "duration": "10h 30m",
+      "basePrice": 975.0,
+      "cabinLayout": {
+        "aircraft": "Boeing 777-300ER",
+        "rows": 15,
+        "configuration": "3-3",
+        "seats": [
+          {
+            "id": "1A",
+            "row": 1,
+            "number": "A",
+            "class": "first",
+            "status": "available",
+            "priceMarkup": 400.0
+          },
+          {
+            "id": "1C",
+            "row": 1,
+            "number": "C",
+            "class": "first",
+            "status": "available",
+            "priceMarkup": 400.0
+          },
+          {
+            "id": "1D",
+            "row": 1,
+            "number": "D",
+            "class": "first",
+            "status": "occupied",
+            "priceMarkup": 400.0
+          },
+          {
+            "id": "1F",
+            "row": 1,
+            "number": "F",
+            "class": "first",
+            "status": "available",
+            "priceMarkup": 400.0
+          }
+        ]
+      },
+      "airlineLogoUrl": "https://www.google.com/s2/favicons?domain=ana.co.jp&sz=128"
+    },
+    {
+      "id": "FL-1026",
+      "airline": "ANA",
+      "airlineLogo": "sunrise",
+      "departureCity": "San Francisco",
+      "departureCode": "SFO",
+      "arrivalCity": "Tokyo",
+      "arrivalCode": "HND",
+      "departureTime": "2026-07-15T23:00:00Z",
+      "arrivalTime": "2026-07-17T02:30:00Z",
+      "duration": "10h 30m",
+      "basePrice": 1000.0,
+      "cabinLayout": {
+        "aircraft": "Boeing 777-300ER",
+        "rows": 15,
+        "configuration": "3-3",
+        "seats": [
+          {
+            "id": "1A",
+            "row": 1,
+            "number": "A",
+            "class": "first",
+            "status": "available",
+            "priceMarkup": 400.0
+          },
+          {
+            "id": "1C",
+            "row": 1,
+            "number": "C",
+            "class": "first",
+            "status": "available",
+            "priceMarkup": 400.0
+          },
+          {
+            "id": "1D",
+            "row": 1,
+            "number": "D",
+            "class": "first",
+            "status": "occupied",
+            "priceMarkup": 400.0
+          },
+          {
+            "id": "1F",
+            "row": 1,
+            "number": "F",
+            "class": "first",
+            "status": "available",
+            "priceMarkup": 400.0
+          }
+        ]
+      },
+      "airlineLogoUrl": "https://www.google.com/s2/favicons?domain=ana.co.jp&sz=128"
+    },
+    {
+      "id": "FL-1030",
+      "airline": "Emirates",
+      "airlineLogo": "sunrise",
+      "departureCity": "Dubai",
+      "departureCode": "DXB",
+      "arrivalCity": "New York",
+      "arrivalCode": "JFK",
+      "departureTime": "2026-07-15T06:00:00Z",
+      "arrivalTime": "2026-07-15T19:40:00Z",
+      "duration": "13h 40m",
+      "basePrice": 650.0,
+      "cabinLayout": {
+        "aircraft": "Boeing 777-300ER",
+        "rows": 12,
+        "configuration": "3-3",
+        "seats": [
+          {
+            "id": "1A",
+            "row": 1,
+            "number": "A",
+            "class": "business",
+            "status": "available",
+            "priceMarkup": 220.0
+          },
+          {
+            "id": "1B",
+            "row": 1,
+            "number": "B",
+            "class": "business",
+            "status": "occupied",
+            "priceMarkup": 220.0
+          },
+          {
+            "id": "1C",
+            "row": 1,
+            "number": "C",
+            "class": "business",
+            "status": "available",
+            "priceMarkup": 220.0
+          },
+          {
+            "id": "1D",
+            "row": 1,
+            "number": "D",
+            "class": "business",
+            "status": "available",
+            "priceMarkup": 220.0
+          },
+          {
+            "id": "1E",
+            "row": 1,
+            "number": "E",
+            "class": "business",
+            "status": "occupied",
+            "priceMarkup": 220.0
+          },
+          {
+            "id": "1F",
+            "row": 1,
+            "number": "F",
+            "class": "business",
+            "status": "available",
+            "priceMarkup": 220.0
+          },
+          {
+            "id": "2A",
+            "row": 2,
+            "number": "A",
+            "class": "premium",
+            "status": "available",
+            "priceMarkup": 90.0
+          },
+          {
+            "id": "2B",
+            "row": 2,
+            "number": "B",
+            "class": "premium",
+            "status": "available",
+            "priceMarkup": 90.0
+          },
+          {
+            "id": "2C",
+            "row": 2,
+            "number": "C",
+            "class": "premium",
+            "status": "occupied",
+            "priceMarkup": 90.0
+          },
+          {
+            "id": "2D",
+            "row": 2,
+            "number": "D",
+            "class": "premium",
+            "status": "available",
+            "priceMarkup": 90.0
+          },
+          {
+            "id": "2E",
+            "row": 2,
+            "number": "E",
+            "class": "premium",
+            "status": "available",
+            "priceMarkup": 90.0
+          },
+          {
+            "id": "2F",
+            "row": 2,
+            "number": "F",
+            "class": "premium",
+            "status": "occupied",
+            "priceMarkup": 90.0
+          },
+          {
+            "id": "3A",
+            "row": 3,
+            "number": "A",
+            "class": "economy",
+            "status": "available",
+            "priceMarkup": 0.0
+          },
+          {
+            "id": "3B",
+            "row": 3,
+            "number": "B",
+            "class": "economy",
+            "status": "occupied",
+            "priceMarkup": 0.0
+          },
+          {
+            "id": "3C",
+            "row": 3,
+            "number": "C",
+            "class": "economy",
+            "status": "available",
+            "priceMarkup": 0.0
+          },
+          {
+            "id": "3D",
+            "row": 3,
+            "number": "D",
+            "class": "economy",
+            "status": "occupied",
+            "priceMarkup": 0.0
+          },
+          {
+            "id": "3E",
+            "row": 3,
+            "number": "E",
+            "class": "economy",
+            "status": "available",
+            "priceMarkup": 0.0
+          },
+          {
+            "id": "3F",
+            "row": 3,
+            "number": "F",
+            "class": "economy",
+            "status": "available",
+            "priceMarkup": 0.0
+          }
+        ]
+      },
+      "airlineLogoUrl": "https://www.google.com/s2/favicons?domain=emirates.com&sz=128"
+    },
+    {
+      "id": "FL-1031",
+      "airline": "Emirates",
+      "airlineLogo": "sunrise",
+      "departureCity": "Dubai",
+      "departureCode": "DXB",
+      "arrivalCity": "New York",
+      "arrivalCode": "JFK",
+      "departureTime": "2026-07-15T08:00:00Z",
+      "arrivalTime": "2026-07-15T21:40:00Z",
+      "duration": "13h 40m",
+      "basePrice": 675.0,
+      "cabinLayout": {
+        "aircraft": "Boeing 777-300ER",
+        "rows": 12,
+        "configuration": "3-3",
+        "seats": [
+          {
+            "id": "1A",
+            "row": 1,
+            "number": "A",
+            "class": "business",
+            "status": "available",
+            "priceMarkup": 220.0
+          },
+          {
+            "id": "1B",
+            "row": 1,
+            "number": "B",
+            "class": "business",
+            "status": "occupied",
+            "priceMarkup": 220.0
+          },
+          {
+            "id": "1C",
+            "row": 1,
+            "number": "C",
+            "class": "business",
+            "status": "available",
+            "priceMarkup": 220.0
+          },
+          {
+            "id": "1D",
+            "row": 1,
+            "number": "D",
+            "class": "business",
+            "status": "available",
+            "priceMarkup": 220.0
+          },
+          {
+            "id": "1E",
+            "row": 1,
+            "number": "E",
+            "class": "business",
+            "status": "occupied",
+            "priceMarkup": 220.0
+          },
+          {
+            "id": "1F",
+            "row": 1,
+            "number": "F",
+            "class": "business",
+            "status": "available",
+            "priceMarkup": 220.0
+          },
+          {
+            "id": "2A",
+            "row": 2,
+            "number": "A",
+            "class": "premium",
+            "status": "available",
+            "priceMarkup": 90.0
+          },
+          {
+            "id": "2B",
+            "row": 2,
+            "number": "B",
+            "class": "premium",
+            "status": "available",
+            "priceMarkup": 90.0
+          },
+          {
+            "id": "2C",
+            "row": 2,
+            "number": "C",
+            "class": "premium",
+            "status": "occupied",
+            "priceMarkup": 90.0
+          },
+          {
+            "id": "2D",
+            "row": 2,
+            "number": "D",
+            "class": "premium",
+            "status": "available",
+            "priceMarkup": 90.0
+          },
+          {
+            "id": "2E",
+            "row": 2,
+            "number": "E",
+            "class": "premium",
+            "status": "available",
+            "priceMarkup": 90.0
+          },
+          {
+            "id": "2F",
+            "row": 2,
+            "number": "F",
+            "class": "premium",
+            "status": "occupied",
+            "priceMarkup": 90.0
+          },
+          {
+            "id": "3A",
+            "row": 3,
+            "number": "A",
+            "class": "economy",
+            "status": "available",
+            "priceMarkup": 0.0
+          },
+          {
+            "id": "3B",
+            "row": 3,
+            "number": "B",
+            "class": "economy",
+            "status": "occupied",
+            "priceMarkup": 0.0
+          },
+          {
+            "id": "3C",
+            "row": 3,
+            "number": "C",
+            "class": "economy",
+            "status": "available",
+            "priceMarkup": 0.0
+          },
+          {
+            "id": "3D",
+            "row": 3,
+            "number": "D",
+            "class": "economy",
+            "status": "occupied",
+            "priceMarkup": 0.0
+          },
+          {
+            "id": "3E",
+            "row": 3,
+            "number": "E",
+            "class": "economy",
+            "status": "available",
+            "priceMarkup": 0.0
+          },
+          {
+            "id": "3F",
+            "row": 3,
+            "number": "F",
+            "class": "economy",
+            "status": "available",
+            "priceMarkup": 0.0
+          }
+        ]
+      },
+      "airlineLogoUrl": "https://www.google.com/s2/favicons?domain=emirates.com&sz=128"
+    },
+    {
+      "id": "FL-1032",
+      "airline": "Emirates",
+      "airlineLogo": "sunrise",
+      "departureCity": "Dubai",
+      "departureCode": "DXB",
+      "arrivalCity": "New York",
+      "arrivalCode": "JFK",
+      "departureTime": "2026-07-15T10:00:00Z",
+      "arrivalTime": "2026-07-15T23:40:00Z",
+      "duration": "13h 40m",
+      "basePrice": 700.0,
+      "cabinLayout": {
+        "aircraft": "Boeing 777-300ER",
+        "rows": 12,
+        "configuration": "3-3",
+        "seats": [
+          {
+            "id": "1A",
+            "row": 1,
+            "number": "A",
+            "class": "business",
+            "status": "available",
+            "priceMarkup": 220.0
+          },
+          {
+            "id": "1B",
+            "row": 1,
+            "number": "B",
+            "class": "business",
+            "status": "occupied",
+            "priceMarkup": 220.0
+          },
+          {
+            "id": "1C",
+            "row": 1,
+            "number": "C",
+            "class": "business",
+            "status": "available",
+            "priceMarkup": 220.0
+          },
+          {
+            "id": "1D",
+            "row": 1,
+            "number": "D",
+            "class": "business",
+            "status": "available",
+            "priceMarkup": 220.0
+          },
+          {
+            "id": "1E",
+            "row": 1,
+            "number": "E",
+            "class": "business",
+            "status": "occupied",
+            "priceMarkup": 220.0
+          },
+          {
+            "id": "1F",
+            "row": 1,
+            "number": "F",
+            "class": "business",
+            "status": "available",
+            "priceMarkup": 220.0
+          },
+          {
+            "id": "2A",
+            "row": 2,
+            "number": "A",
+            "class": "premium",
+            "status": "available",
+            "priceMarkup": 90.0
+          },
+          {
+            "id": "2B",
+            "row": 2,
+            "number": "B",
+            "class": "premium",
+            "status": "available",
+            "priceMarkup": 90.0
+          },
+          {
+            "id": "2C",
+            "row": 2,
+            "number": "C",
+            "class": "premium",
+            "status": "occupied",
+            "priceMarkup": 90.0
+          },
+          {
+            "id": "2D",
+            "row": 2,
+            "number": "D",
+            "class": "premium",
+            "status": "available",
+            "priceMarkup": 90.0
+          },
+          {
+            "id": "2E",
+            "row": 2,
+            "number": "E",
+            "class": "premium",
+            "status": "available",
+            "priceMarkup": 90.0
+          },
+          {
+            "id": "2F",
+            "row": 2,
+            "number": "F",
+            "class": "premium",
+            "status": "occupied",
+            "priceMarkup": 90.0
+          },
+          {
+            "id": "3A",
+            "row": 3,
+            "number": "A",
+            "class": "economy",
+            "status": "available",
+            "priceMarkup": 0.0
+          },
+          {
+            "id": "3B",
+            "row": 3,
+            "number": "B",
+            "class": "economy",
+            "status": "occupied",
+            "priceMarkup": 0.0
+          },
+          {
+            "id": "3C",
+            "row": 3,
+            "number": "C",
+            "class": "economy",
+            "status": "available",
+            "priceMarkup": 0.0
+          },
+          {
+            "id": "3D",
+            "row": 3,
+            "number": "D",
+            "class": "economy",
+            "status": "occupied",
+            "priceMarkup": 0.0
+          },
+          {
+            "id": "3E",
+            "row": 3,
+            "number": "E",
+            "class": "economy",
+            "status": "available",
+            "priceMarkup": 0.0
+          },
+          {
+            "id": "3F",
+            "row": 3,
+            "number": "F",
+            "class": "economy",
+            "status": "available",
+            "priceMarkup": 0.0
+          }
+        ]
+      },
+      "airlineLogoUrl": "https://www.google.com/s2/favicons?domain=emirates.com&sz=128"
+    },
+    {
+      "id": "FL-1033",
+      "airline": "Emirates",
+      "airlineLogo": "sunrise",
+      "departureCity": "Dubai",
+      "departureCode": "DXB",
+      "arrivalCity": "New York",
+      "arrivalCode": "JFK",
+      "departureTime": "2026-07-15T12:00:00Z",
+      "arrivalTime": "2026-07-16T01:40:00Z",
+      "duration": "13h 40m",
+      "basePrice": 725.0,
+      "cabinLayout": {
+        "aircraft": "Boeing 777-300ER",
+        "rows": 12,
+        "configuration": "3-3",
+        "seats": [
+          {
+            "id": "1A",
+            "row": 1,
+            "number": "A",
+            "class": "business",
+            "status": "available",
+            "priceMarkup": 220.0
+          },
+          {
+            "id": "1B",
+            "row": 1,
+            "number": "B",
+            "class": "business",
+            "status": "occupied",
+            "priceMarkup": 220.0
+          },
+          {
+            "id": "1C",
+            "row": 1,
+            "number": "C",
+            "class": "business",
+            "status": "available",
+            "priceMarkup": 220.0
+          },
+          {
+            "id": "1D",
+            "row": 1,
+            "number": "D",
+            "class": "business",
+            "status": "available",
+            "priceMarkup": 220.0
+          },
+          {
+            "id": "1E",
+            "row": 1,
+            "number": "E",
+            "class": "business",
+            "status": "occupied",
+            "priceMarkup": 220.0
+          },
+          {
+            "id": "1F",
+            "row": 1,
+            "number": "F",
+            "class": "business",
+            "status": "available",
+            "priceMarkup": 220.0
+          },
+          {
+            "id": "2A",
+            "row": 2,
+            "number": "A",
+            "class": "premium",
+            "status": "available",
+            "priceMarkup": 90.0
+          },
+          {
+            "id": "2B",
+            "row": 2,
+            "number": "B",
+            "class": "premium",
+            "status": "available",
+            "priceMarkup": 90.0
+          },
+          {
+            "id": "2C",
+            "row": 2,
+            "number": "C",
+            "class": "premium",
+            "status": "occupied",
+            "priceMarkup": 90.0
+          },
+          {
+            "id": "2D",
+            "row": 2,
+            "number": "D",
+            "class": "premium",
+            "status": "available",
+            "priceMarkup": 90.0
+          },
+          {
+            "id": "2E",
+            "row": 2,
+            "number": "E",
+            "class": "premium",
+            "status": "available",
+            "priceMarkup": 90.0
+          },
+          {
+            "id": "2F",
+            "row": 2,
+            "number": "F",
+            "class": "premium",
+            "status": "occupied",
+            "priceMarkup": 90.0
+          },
+          {
+            "id": "3A",
+            "row": 3,
+            "number": "A",
+            "class": "economy",
+            "status": "available",
+            "priceMarkup": 0.0
+          },
+          {
+            "id": "3B",
+            "row": 3,
+            "number": "B",
+            "class": "economy",
+            "status": "occupied",
+            "priceMarkup": 0.0
+          },
+          {
+            "id": "3C",
+            "row": 3,
+            "number": "C",
+            "class": "economy",
+            "status": "available",
+            "priceMarkup": 0.0
+          },
+          {
+            "id": "3D",
+            "row": 3,
+            "number": "D",
+            "class": "economy",
+            "status": "occupied",
+            "priceMarkup": 0.0
+          },
+          {
+            "id": "3E",
+            "row": 3,
+            "number": "E",
+            "class": "economy",
+            "status": "available",
+            "priceMarkup": 0.0
+          },
+          {
+            "id": "3F",
+            "row": 3,
+            "number": "F",
+            "class": "economy",
+            "status": "available",
+            "priceMarkup": 0.0
+          }
+        ]
+      },
+      "airlineLogoUrl": "https://www.google.com/s2/favicons?domain=emirates.com&sz=128"
+    },
+    {
+      "id": "FL-1034",
+      "airline": "Emirates",
+      "airlineLogo": "sunrise",
+      "departureCity": "Dubai",
+      "departureCode": "DXB",
+      "arrivalCity": "New York",
+      "arrivalCode": "JFK",
+      "departureTime": "2026-07-15T14:00:00Z",
+      "arrivalTime": "2026-07-16T03:40:00Z",
+      "duration": "13h 40m",
+      "basePrice": 750.0,
+      "cabinLayout": {
+        "aircraft": "Boeing 777-300ER",
+        "rows": 12,
+        "configuration": "3-3",
+        "seats": [
+          {
+            "id": "1A",
+            "row": 1,
+            "number": "A",
+            "class": "business",
+            "status": "available",
+            "priceMarkup": 220.0
+          },
+          {
+            "id": "1B",
+            "row": 1,
+            "number": "B",
+            "class": "business",
+            "status": "occupied",
+            "priceMarkup": 220.0
+          },
+          {
+            "id": "1C",
+            "row": 1,
+            "number": "C",
+            "class": "business",
+            "status": "available",
+            "priceMarkup": 220.0
+          },
+          {
+            "id": "1D",
+            "row": 1,
+            "number": "D",
+            "class": "business",
+            "status": "available",
+            "priceMarkup": 220.0
+          },
+          {
+            "id": "1E",
+            "row": 1,
+            "number": "E",
+            "class": "business",
+            "status": "occupied",
+            "priceMarkup": 220.0
+          },
+          {
+            "id": "1F",
+            "row": 1,
+            "number": "F",
+            "class": "business",
+            "status": "available",
+            "priceMarkup": 220.0
+          },
+          {
+            "id": "2A",
+            "row": 2,
+            "number": "A",
+            "class": "premium",
+            "status": "available",
+            "priceMarkup": 90.0
+          },
+          {
+            "id": "2B",
+            "row": 2,
+            "number": "B",
+            "class": "premium",
+            "status": "available",
+            "priceMarkup": 90.0
+          },
+          {
+            "id": "2C",
+            "row": 2,
+            "number": "C",
+            "class": "premium",
+            "status": "occupied",
+            "priceMarkup": 90.0
+          },
+          {
+            "id": "2D",
+            "row": 2,
+            "number": "D",
+            "class": "premium",
+            "status": "available",
+            "priceMarkup": 90.0
+          },
+          {
+            "id": "2E",
+            "row": 2,
+            "number": "E",
+            "class": "premium",
+            "status": "available",
+            "priceMarkup": 90.0
+          },
+          {
+            "id": "2F",
+            "row": 2,
+            "number": "F",
+            "class": "premium",
+            "status": "occupied",
+            "priceMarkup": 90.0
+          },
+          {
+            "id": "3A",
+            "row": 3,
+            "number": "A",
+            "class": "economy",
+            "status": "available",
+            "priceMarkup": 0.0
+          },
+          {
+            "id": "3B",
+            "row": 3,
+            "number": "B",
+            "class": "economy",
+            "status": "occupied",
+            "priceMarkup": 0.0
+          },
+          {
+            "id": "3C",
+            "row": 3,
+            "number": "C",
+            "class": "economy",
+            "status": "available",
+            "priceMarkup": 0.0
+          },
+          {
+            "id": "3D",
+            "row": 3,
+            "number": "D",
+            "class": "economy",
+            "status": "occupied",
+            "priceMarkup": 0.0
+          },
+          {
+            "id": "3E",
+            "row": 3,
+            "number": "E",
+            "class": "economy",
+            "status": "available",
+            "priceMarkup": 0.0
+          },
+          {
+            "id": "3F",
+            "row": 3,
+            "number": "F",
+            "class": "economy",
+            "status": "available",
+            "priceMarkup": 0.0
+          }
+        ]
+      },
+      "airlineLogoUrl": "https://www.google.com/s2/favicons?domain=emirates.com&sz=128"
+    },
+    {
+      "id": "FL-1035",
+      "airline": "Emirates",
+      "airlineLogo": "sunrise",
+      "departureCity": "Dubai",
+      "departureCode": "DXB",
+      "arrivalCity": "New York",
+      "arrivalCode": "JFK",
+      "departureTime": "2026-07-15T16:00:00Z",
+      "arrivalTime": "2026-07-16T05:40:00Z",
+      "duration": "13h 40m",
+      "basePrice": 775.0,
+      "cabinLayout": {
+        "aircraft": "Boeing 777-300ER",
+        "rows": 12,
+        "configuration": "3-3",
+        "seats": [
+          {
+            "id": "1A",
+            "row": 1,
+            "number": "A",
+            "class": "business",
+            "status": "available",
+            "priceMarkup": 220.0
+          },
+          {
+            "id": "1B",
+            "row": 1,
+            "number": "B",
+            "class": "business",
+            "status": "occupied",
+            "priceMarkup": 220.0
+          },
+          {
+            "id": "1C",
+            "row": 1,
+            "number": "C",
+            "class": "business",
+            "status": "available",
+            "priceMarkup": 220.0
+          },
+          {
+            "id": "1D",
+            "row": 1,
+            "number": "D",
+            "class": "business",
+            "status": "available",
+            "priceMarkup": 220.0
+          },
+          {
+            "id": "1E",
+            "row": 1,
+            "number": "E",
+            "class": "business",
+            "status": "occupied",
+            "priceMarkup": 220.0
+          },
+          {
+            "id": "1F",
+            "row": 1,
+            "number": "F",
+            "class": "business",
+            "status": "available",
+            "priceMarkup": 220.0
+          },
+          {
+            "id": "2A",
+            "row": 2,
+            "number": "A",
+            "class": "premium",
+            "status": "available",
+            "priceMarkup": 90.0
+          },
+          {
+            "id": "2B",
+            "row": 2,
+            "number": "B",
+            "class": "premium",
+            "status": "available",
+            "priceMarkup": 90.0
+          },
+          {
+            "id": "2C",
+            "row": 2,
+            "number": "C",
+            "class": "premium",
+            "status": "occupied",
+            "priceMarkup": 90.0
+          },
+          {
+            "id": "2D",
+            "row": 2,
+            "number": "D",
+            "class": "premium",
+            "status": "available",
+            "priceMarkup": 90.0
+          },
+          {
+            "id": "2E",
+            "row": 2,
+            "number": "E",
+            "class": "premium",
+            "status": "available",
+            "priceMarkup": 90.0
+          },
+          {
+            "id": "2F",
+            "row": 2,
+            "number": "F",
+            "class": "premium",
+            "status": "occupied",
+            "priceMarkup": 90.0
+          },
+          {
+            "id": "3A",
+            "row": 3,
+            "number": "A",
+            "class": "economy",
+            "status": "available",
+            "priceMarkup": 0.0
+          },
+          {
+            "id": "3B",
+            "row": 3,
+            "number": "B",
+            "class": "economy",
+            "status": "occupied",
+            "priceMarkup": 0.0
+          },
+          {
+            "id": "3C",
+            "row": 3,
+            "number": "C",
+            "class": "economy",
+            "status": "available",
+            "priceMarkup": 0.0
+          },
+          {
+            "id": "3D",
+            "row": 3,
+            "number": "D",
+            "class": "economy",
+            "status": "occupied",
+            "priceMarkup": 0.0
+          },
+          {
+            "id": "3E",
+            "row": 3,
+            "number": "E",
+            "class": "economy",
+            "status": "available",
+            "priceMarkup": 0.0
+          },
+          {
+            "id": "3F",
+            "row": 3,
+            "number": "F",
+            "class": "economy",
+            "status": "available",
+            "priceMarkup": 0.0
+          }
+        ]
+      },
+      "airlineLogoUrl": "https://www.google.com/s2/favicons?domain=emirates.com&sz=128"
+    },
+    {
+      "id": "FL-1036",
+      "airline": "Emirates",
+      "airlineLogo": "sunrise",
+      "departureCity": "Dubai",
+      "departureCode": "DXB",
+      "arrivalCity": "New York",
+      "arrivalCode": "JFK",
+      "departureTime": "2026-07-15T18:00:00Z",
+      "arrivalTime": "2026-07-16T07:40:00Z",
+      "duration": "13h 40m",
+      "basePrice": 800.0,
+      "cabinLayout": {
+        "aircraft": "Boeing 777-300ER",
+        "rows": 12,
+        "configuration": "3-3",
+        "seats": [
+          {
+            "id": "1A",
+            "row": 1,
+            "number": "A",
+            "class": "business",
+            "status": "available",
+            "priceMarkup": 220.0
+          },
+          {
+            "id": "1B",
+            "row": 1,
+            "number": "B",
+            "class": "business",
+            "status": "occupied",
+            "priceMarkup": 220.0
+          },
+          {
+            "id": "1C",
+            "row": 1,
+            "number": "C",
+            "class": "business",
+            "status": "available",
+            "priceMarkup": 220.0
+          },
+          {
+            "id": "1D",
+            "row": 1,
+            "number": "D",
+            "class": "business",
+            "status": "available",
+            "priceMarkup": 220.0
+          },
+          {
+            "id": "1E",
+            "row": 1,
+            "number": "E",
+            "class": "business",
+            "status": "occupied",
+            "priceMarkup": 220.0
+          },
+          {
+            "id": "1F",
+            "row": 1,
+            "number": "F",
+            "class": "business",
+            "status": "available",
+            "priceMarkup": 220.0
+          },
+          {
+            "id": "2A",
+            "row": 2,
+            "number": "A",
+            "class": "premium",
+            "status": "available",
+            "priceMarkup": 90.0
+          },
+          {
+            "id": "2B",
+            "row": 2,
+            "number": "B",
+            "class": "premium",
+            "status": "available",
+            "priceMarkup": 90.0
+          },
+          {
+            "id": "2C",
+            "row": 2,
+            "number": "C",
+            "class": "premium",
+            "status": "occupied",
+            "priceMarkup": 90.0
+          },
+          {
+            "id": "2D",
+            "row": 2,
+            "number": "D",
+            "class": "premium",
+            "status": "available",
+            "priceMarkup": 90.0
+          },
+          {
+            "id": "2E",
+            "row": 2,
+            "number": "E",
+            "class": "premium",
+            "status": "available",
+            "priceMarkup": 90.0
+          },
+          {
+            "id": "2F",
+            "row": 2,
+            "number": "F",
+            "class": "premium",
+            "status": "occupied",
+            "priceMarkup": 90.0
+          },
+          {
+            "id": "3A",
+            "row": 3,
+            "number": "A",
+            "class": "economy",
+            "status": "available",
+            "priceMarkup": 0.0
+          },
+          {
+            "id": "3B",
+            "row": 3,
+            "number": "B",
+            "class": "economy",
+            "status": "occupied",
+            "priceMarkup": 0.0
+          },
+          {
+            "id": "3C",
+            "row": 3,
+            "number": "C",
+            "class": "economy",
+            "status": "available",
+            "priceMarkup": 0.0
+          },
+          {
+            "id": "3D",
+            "row": 3,
+            "number": "D",
+            "class": "economy",
+            "status": "occupied",
+            "priceMarkup": 0.0
+          },
+          {
+            "id": "3E",
+            "row": 3,
+            "number": "E",
+            "class": "economy",
+            "status": "available",
+            "priceMarkup": 0.0
+          },
+          {
+            "id": "3F",
+            "row": 3,
+            "number": "F",
+            "class": "economy",
+            "status": "available",
+            "priceMarkup": 0.0
+          }
+        ]
+      },
+      "airlineLogoUrl": "https://www.google.com/s2/favicons?domain=emirates.com&sz=128"
+    },
+    {
+      "id": "FL-1040",
+      "airline": "Qatar Airways",
+      "airlineLogo": "gem",
+      "departureCity": "Doha",
+      "departureCode": "DOH",
+      "arrivalCity": "London",
+      "arrivalCode": "LHR",
+      "departureTime": "2026-07-15T08:00:00Z",
+      "arrivalTime": "2026-07-15T15:20:00Z",
+      "duration": "7h 20m",
+      "basePrice": 600.0,
+      "cabinLayout": {
+        "aircraft": "Airbus A350-1000",
+        "rows": 12,
+        "configuration": "3-3",
+        "seats": [
+          {
+            "id": "1A",
+            "row": 1,
+            "number": "A",
+            "class": "business",
+            "status": "occupied",
+            "priceMarkup": 200.0
+          },
+          {
+            "id": "1B",
+            "row": 1,
+            "number": "B",
+            "class": "business",
+            "status": "available",
+            "priceMarkup": 200.0
+          },
+          {
+            "id": "1C",
+            "row": 1,
+            "number": "C",
+            "class": "business",
+            "status": "available",
+            "priceMarkup": 200.0
+          },
+          {
+            "id": "1D",
+            "row": 1,
+            "number": "D",
+            "class": "business",
+            "status": "occupied",
+            "priceMarkup": 200.0
+          },
+          {
+            "id": "1E",
+            "row": 1,
+            "number": "E",
+            "class": "business",
+            "status": "available",
+            "priceMarkup": 200.0
+          },
+          {
+            "id": "1F",
+            "row": 1,
+            "number": "F",
+            "class": "business",
+            "status": "available",
+            "priceMarkup": 200.0
+          },
+          {
+            "id": "2A",
+            "row": 2,
+            "number": "A",
+            "class": "premium",
+            "status": "available",
+            "priceMarkup": 85.0
+          },
+          {
+            "id": "2B",
+            "row": 2,
+            "number": "B",
+            "class": "premium",
+            "status": "occupied",
+            "priceMarkup": 85.0
+          },
+          {
+            "id": "2C",
+            "row": 2,
+            "number": "C",
+            "class": "premium",
+            "status": "available",
+            "priceMarkup": 85.0
+          },
+          {
+            "id": "2D",
+            "row": 2,
+            "number": "D",
+            "class": "premium",
+            "status": "available",
+            "priceMarkup": 85.0
+          },
+          {
+            "id": "2E",
+            "row": 2,
+            "number": "E",
+            "class": "premium",
+            "status": "occupied",
+            "priceMarkup": 85.0
+          },
+          {
+            "id": "2F",
+            "row": 2,
+            "number": "F",
+            "class": "premium",
+            "status": "available",
+            "priceMarkup": 85.0
+          },
+          {
+            "id": "3A",
+            "row": 3,
+            "number": "A",
+            "class": "economy",
+            "status": "available",
+            "priceMarkup": 0.0
+          },
+          {
+            "id": "3B",
+            "row": 3,
+            "number": "B",
+            "class": "economy",
+            "status": "available",
+            "priceMarkup": 0.0
+          },
+          {
+            "id": "3C",
+            "row": 3,
+            "number": "C",
+            "class": "economy",
+            "status": "occupied",
+            "priceMarkup": 0.0
+          },
+          {
+            "id": "3D",
+            "row": 3,
+            "number": "D",
+            "class": "economy",
+            "status": "available",
+            "priceMarkup": 0.0
+          },
+          {
+            "id": "3E",
+            "row": 3,
+            "number": "E",
+            "class": "economy",
+            "status": "available",
+            "priceMarkup": 0.0
+          },
+          {
+            "id": "3F",
+            "row": 3,
+            "number": "F",
+            "class": "economy",
+            "status": "occupied",
+            "priceMarkup": 0.0
+          }
+        ]
+      },
+      "airlineLogoUrl": "https://www.google.com/s2/favicons?domain=qatarairways.com&sz=128"
+    },
+    {
+      "id": "FL-1041",
+      "airline": "Qatar Airways",
+      "airlineLogo": "gem",
+      "departureCity": "Doha",
+      "departureCode": "DOH",
+      "arrivalCity": "London",
+      "arrivalCode": "LHR",
+      "departureTime": "2026-07-15T10:00:00Z",
+      "arrivalTime": "2026-07-15T17:20:00Z",
+      "duration": "7h 20m",
+      "basePrice": 625.0,
+      "cabinLayout": {
+        "aircraft": "Airbus A350-1000",
+        "rows": 12,
+        "configuration": "3-3",
+        "seats": [
+          {
+            "id": "1A",
+            "row": 1,
+            "number": "A",
+            "class": "business",
+            "status": "occupied",
+            "priceMarkup": 200.0
+          },
+          {
+            "id": "1B",
+            "row": 1,
+            "number": "B",
+            "class": "business",
+            "status": "available",
+            "priceMarkup": 200.0
+          },
+          {
+            "id": "1C",
+            "row": 1,
+            "number": "C",
+            "class": "business",
+            "status": "available",
+            "priceMarkup": 200.0
+          },
+          {
+            "id": "1D",
+            "row": 1,
+            "number": "D",
+            "class": "business",
+            "status": "occupied",
+            "priceMarkup": 200.0
+          },
+          {
+            "id": "1E",
+            "row": 1,
+            "number": "E",
+            "class": "business",
+            "status": "available",
+            "priceMarkup": 200.0
+          },
+          {
+            "id": "1F",
+            "row": 1,
+            "number": "F",
+            "class": "business",
+            "status": "available",
+            "priceMarkup": 200.0
+          },
+          {
+            "id": "2A",
+            "row": 2,
+            "number": "A",
+            "class": "premium",
+            "status": "available",
+            "priceMarkup": 85.0
+          },
+          {
+            "id": "2B",
+            "row": 2,
+            "number": "B",
+            "class": "premium",
+            "status": "occupied",
+            "priceMarkup": 85.0
+          },
+          {
+            "id": "2C",
+            "row": 2,
+            "number": "C",
+            "class": "premium",
+            "status": "available",
+            "priceMarkup": 85.0
+          },
+          {
+            "id": "2D",
+            "row": 2,
+            "number": "D",
+            "class": "premium",
+            "status": "available",
+            "priceMarkup": 85.0
+          },
+          {
+            "id": "2E",
+            "row": 2,
+            "number": "E",
+            "class": "premium",
+            "status": "occupied",
+            "priceMarkup": 85.0
+          },
+          {
+            "id": "2F",
+            "row": 2,
+            "number": "F",
+            "class": "premium",
+            "status": "available",
+            "priceMarkup": 85.0
+          },
+          {
+            "id": "3A",
+            "row": 3,
+            "number": "A",
+            "class": "economy",
+            "status": "available",
+            "priceMarkup": 0.0
+          },
+          {
+            "id": "3B",
+            "row": 3,
+            "number": "B",
+            "class": "economy",
+            "status": "available",
+            "priceMarkup": 0.0
+          },
+          {
+            "id": "3C",
+            "row": 3,
+            "number": "C",
+            "class": "economy",
+            "status": "occupied",
+            "priceMarkup": 0.0
+          },
+          {
+            "id": "3D",
+            "row": 3,
+            "number": "D",
+            "class": "economy",
+            "status": "available",
+            "priceMarkup": 0.0
+          },
+          {
+            "id": "3E",
+            "row": 3,
+            "number": "E",
+            "class": "economy",
+            "status": "available",
+            "priceMarkup": 0.0
+          },
+          {
+            "id": "3F",
+            "row": 3,
+            "number": "F",
+            "class": "economy",
+            "status": "occupied",
+            "priceMarkup": 0.0
+          }
+        ]
+      },
+      "airlineLogoUrl": "https://www.google.com/s2/favicons?domain=qatarairways.com&sz=128"
+    },
+    {
+      "id": "FL-1042",
+      "airline": "Qatar Airways",
+      "airlineLogo": "gem",
+      "departureCity": "Doha",
+      "departureCode": "DOH",
+      "arrivalCity": "London",
+      "arrivalCode": "LHR",
+      "departureTime": "2026-07-15T12:00:00Z",
+      "arrivalTime": "2026-07-15T19:20:00Z",
+      "duration": "7h 20m",
+      "basePrice": 650.0,
+      "cabinLayout": {
+        "aircraft": "Airbus A350-1000",
+        "rows": 12,
+        "configuration": "3-3",
+        "seats": [
+          {
+            "id": "1A",
+            "row": 1,
+            "number": "A",
+            "class": "business",
+            "status": "occupied",
+            "priceMarkup": 200.0
+          },
+          {
+            "id": "1B",
+            "row": 1,
+            "number": "B",
+            "class": "business",
+            "status": "available",
+            "priceMarkup": 200.0
+          },
+          {
+            "id": "1C",
+            "row": 1,
+            "number": "C",
+            "class": "business",
+            "status": "available",
+            "priceMarkup": 200.0
+          },
+          {
+            "id": "1D",
+            "row": 1,
+            "number": "D",
+            "class": "business",
+            "status": "occupied",
+            "priceMarkup": 200.0
+          },
+          {
+            "id": "1E",
+            "row": 1,
+            "number": "E",
+            "class": "business",
+            "status": "available",
+            "priceMarkup": 200.0
+          },
+          {
+            "id": "1F",
+            "row": 1,
+            "number": "F",
+            "class": "business",
+            "status": "available",
+            "priceMarkup": 200.0
+          },
+          {
+            "id": "2A",
+            "row": 2,
+            "number": "A",
+            "class": "premium",
+            "status": "available",
+            "priceMarkup": 85.0
+          },
+          {
+            "id": "2B",
+            "row": 2,
+            "number": "B",
+            "class": "premium",
+            "status": "occupied",
+            "priceMarkup": 85.0
+          },
+          {
+            "id": "2C",
+            "row": 2,
+            "number": "C",
+            "class": "premium",
+            "status": "available",
+            "priceMarkup": 85.0
+          },
+          {
+            "id": "2D",
+            "row": 2,
+            "number": "D",
+            "class": "premium",
+            "status": "available",
+            "priceMarkup": 85.0
+          },
+          {
+            "id": "2E",
+            "row": 2,
+            "number": "E",
+            "class": "premium",
+            "status": "occupied",
+            "priceMarkup": 85.0
+          },
+          {
+            "id": "2F",
+            "row": 2,
+            "number": "F",
+            "class": "premium",
+            "status": "available",
+            "priceMarkup": 85.0
+          },
+          {
+            "id": "3A",
+            "row": 3,
+            "number": "A",
+            "class": "economy",
+            "status": "available",
+            "priceMarkup": 0.0
+          },
+          {
+            "id": "3B",
+            "row": 3,
+            "number": "B",
+            "class": "economy",
+            "status": "available",
+            "priceMarkup": 0.0
+          },
+          {
+            "id": "3C",
+            "row": 3,
+            "number": "C",
+            "class": "economy",
+            "status": "occupied",
+            "priceMarkup": 0.0
+          },
+          {
+            "id": "3D",
+            "row": 3,
+            "number": "D",
+            "class": "economy",
+            "status": "available",
+            "priceMarkup": 0.0
+          },
+          {
+            "id": "3E",
+            "row": 3,
+            "number": "E",
+            "class": "economy",
+            "status": "available",
+            "priceMarkup": 0.0
+          },
+          {
+            "id": "3F",
+            "row": 3,
+            "number": "F",
+            "class": "economy",
+            "status": "occupied",
+            "priceMarkup": 0.0
+          }
+        ]
+      },
+      "airlineLogoUrl": "https://www.google.com/s2/favicons?domain=qatarairways.com&sz=128"
+    },
+    {
+      "id": "FL-1043",
+      "airline": "Qatar Airways",
+      "airlineLogo": "gem",
+      "departureCity": "Doha",
+      "departureCode": "DOH",
+      "arrivalCity": "London",
+      "arrivalCode": "LHR",
+      "departureTime": "2026-07-15T14:00:00Z",
+      "arrivalTime": "2026-07-15T21:20:00Z",
+      "duration": "7h 20m",
+      "basePrice": 675.0,
+      "cabinLayout": {
+        "aircraft": "Airbus A350-1000",
+        "rows": 12,
+        "configuration": "3-3",
+        "seats": [
+          {
+            "id": "1A",
+            "row": 1,
+            "number": "A",
+            "class": "business",
+            "status": "occupied",
+            "priceMarkup": 200.0
+          },
+          {
+            "id": "1B",
+            "row": 1,
+            "number": "B",
+            "class": "business",
+            "status": "available",
+            "priceMarkup": 200.0
+          },
+          {
+            "id": "1C",
+            "row": 1,
+            "number": "C",
+            "class": "business",
+            "status": "available",
+            "priceMarkup": 200.0
+          },
+          {
+            "id": "1D",
+            "row": 1,
+            "number": "D",
+            "class": "business",
+            "status": "occupied",
+            "priceMarkup": 200.0
+          },
+          {
+            "id": "1E",
+            "row": 1,
+            "number": "E",
+            "class": "business",
+            "status": "available",
+            "priceMarkup": 200.0
+          },
+          {
+            "id": "1F",
+            "row": 1,
+            "number": "F",
+            "class": "business",
+            "status": "available",
+            "priceMarkup": 200.0
+          },
+          {
+            "id": "2A",
+            "row": 2,
+            "number": "A",
+            "class": "premium",
+            "status": "available",
+            "priceMarkup": 85.0
+          },
+          {
+            "id": "2B",
+            "row": 2,
+            "number": "B",
+            "class": "premium",
+            "status": "occupied",
+            "priceMarkup": 85.0
+          },
+          {
+            "id": "2C",
+            "row": 2,
+            "number": "C",
+            "class": "premium",
+            "status": "available",
+            "priceMarkup": 85.0
+          },
+          {
+            "id": "2D",
+            "row": 2,
+            "number": "D",
+            "class": "premium",
+            "status": "available",
+            "priceMarkup": 85.0
+          },
+          {
+            "id": "2E",
+            "row": 2,
+            "number": "E",
+            "class": "premium",
+            "status": "occupied",
+            "priceMarkup": 85.0
+          },
+          {
+            "id": "2F",
+            "row": 2,
+            "number": "F",
+            "class": "premium",
+            "status": "available",
+            "priceMarkup": 85.0
+          },
+          {
+            "id": "3A",
+            "row": 3,
+            "number": "A",
+            "class": "economy",
+            "status": "available",
+            "priceMarkup": 0.0
+          },
+          {
+            "id": "3B",
+            "row": 3,
+            "number": "B",
+            "class": "economy",
+            "status": "available",
+            "priceMarkup": 0.0
+          },
+          {
+            "id": "3C",
+            "row": 3,
+            "number": "C",
+            "class": "economy",
+            "status": "occupied",
+            "priceMarkup": 0.0
+          },
+          {
+            "id": "3D",
+            "row": 3,
+            "number": "D",
+            "class": "economy",
+            "status": "available",
+            "priceMarkup": 0.0
+          },
+          {
+            "id": "3E",
+            "row": 3,
+            "number": "E",
+            "class": "economy",
+            "status": "available",
+            "priceMarkup": 0.0
+          },
+          {
+            "id": "3F",
+            "row": 3,
+            "number": "F",
+            "class": "economy",
+            "status": "occupied",
+            "priceMarkup": 0.0
+          }
+        ]
+      },
+      "airlineLogoUrl": "https://www.google.com/s2/favicons?domain=qatarairways.com&sz=128"
+    },
+    {
+      "id": "FL-1044",
+      "airline": "Qatar Airways",
+      "airlineLogo": "gem",
+      "departureCity": "Doha",
+      "departureCode": "DOH",
+      "arrivalCity": "London",
+      "arrivalCode": "LHR",
+      "departureTime": "2026-07-15T16:00:00Z",
+      "arrivalTime": "2026-07-15T23:20:00Z",
+      "duration": "7h 20m",
+      "basePrice": 700.0,
+      "cabinLayout": {
+        "aircraft": "Airbus A350-1000",
+        "rows": 12,
+        "configuration": "3-3",
+        "seats": [
+          {
+            "id": "1A",
+            "row": 1,
+            "number": "A",
+            "class": "business",
+            "status": "occupied",
+            "priceMarkup": 200.0
+          },
+          {
+            "id": "1B",
+            "row": 1,
+            "number": "B",
+            "class": "business",
+            "status": "available",
+            "priceMarkup": 200.0
+          },
+          {
+            "id": "1C",
+            "row": 1,
+            "number": "C",
+            "class": "business",
+            "status": "available",
+            "priceMarkup": 200.0
+          },
+          {
+            "id": "1D",
+            "row": 1,
+            "number": "D",
+            "class": "business",
+            "status": "occupied",
+            "priceMarkup": 200.0
+          },
+          {
+            "id": "1E",
+            "row": 1,
+            "number": "E",
+            "class": "business",
+            "status": "available",
+            "priceMarkup": 200.0
+          },
+          {
+            "id": "1F",
+            "row": 1,
+            "number": "F",
+            "class": "business",
+            "status": "available",
+            "priceMarkup": 200.0
+          },
+          {
+            "id": "2A",
+            "row": 2,
+            "number": "A",
+            "class": "premium",
+            "status": "available",
+            "priceMarkup": 85.0
+          },
+          {
+            "id": "2B",
+            "row": 2,
+            "number": "B",
+            "class": "premium",
+            "status": "occupied",
+            "priceMarkup": 85.0
+          },
+          {
+            "id": "2C",
+            "row": 2,
+            "number": "C",
+            "class": "premium",
+            "status": "available",
+            "priceMarkup": 85.0
+          },
+          {
+            "id": "2D",
+            "row": 2,
+            "number": "D",
+            "class": "premium",
+            "status": "available",
+            "priceMarkup": 85.0
+          },
+          {
+            "id": "2E",
+            "row": 2,
+            "number": "E",
+            "class": "premium",
+            "status": "occupied",
+            "priceMarkup": 85.0
+          },
+          {
+            "id": "2F",
+            "row": 2,
+            "number": "F",
+            "class": "premium",
+            "status": "available",
+            "priceMarkup": 85.0
+          },
+          {
+            "id": "3A",
+            "row": 3,
+            "number": "A",
+            "class": "economy",
+            "status": "available",
+            "priceMarkup": 0.0
+          },
+          {
+            "id": "3B",
+            "row": 3,
+            "number": "B",
+            "class": "economy",
+            "status": "available",
+            "priceMarkup": 0.0
+          },
+          {
+            "id": "3C",
+            "row": 3,
+            "number": "C",
+            "class": "economy",
+            "status": "occupied",
+            "priceMarkup": 0.0
+          },
+          {
+            "id": "3D",
+            "row": 3,
+            "number": "D",
+            "class": "economy",
+            "status": "available",
+            "priceMarkup": 0.0
+          },
+          {
+            "id": "3E",
+            "row": 3,
+            "number": "E",
+            "class": "economy",
+            "status": "available",
+            "priceMarkup": 0.0
+          },
+          {
+            "id": "3F",
+            "row": 3,
+            "number": "F",
+            "class": "economy",
+            "status": "occupied",
+            "priceMarkup": 0.0
+          }
+        ]
+      },
+      "airlineLogoUrl": "https://www.google.com/s2/favicons?domain=qatarairways.com&sz=128"
+    },
+    {
+      "id": "FL-1045",
+      "airline": "Qatar Airways",
+      "airlineLogo": "gem",
+      "departureCity": "Doha",
+      "departureCode": "DOH",
+      "arrivalCity": "London",
+      "arrivalCode": "LHR",
+      "departureTime": "2026-07-15T18:00:00Z",
+      "arrivalTime": "2026-07-16T01:20:00Z",
+      "duration": "7h 20m",
+      "basePrice": 725.0,
+      "cabinLayout": {
+        "aircraft": "Airbus A350-1000",
+        "rows": 12,
+        "configuration": "3-3",
+        "seats": [
+          {
+            "id": "1A",
+            "row": 1,
+            "number": "A",
+            "class": "business",
+            "status": "occupied",
+            "priceMarkup": 200.0
+          },
+          {
+            "id": "1B",
+            "row": 1,
+            "number": "B",
+            "class": "business",
+            "status": "available",
+            "priceMarkup": 200.0
+          },
+          {
+            "id": "1C",
+            "row": 1,
+            "number": "C",
+            "class": "business",
+            "status": "available",
+            "priceMarkup": 200.0
+          },
+          {
+            "id": "1D",
+            "row": 1,
+            "number": "D",
+            "class": "business",
+            "status": "occupied",
+            "priceMarkup": 200.0
+          },
+          {
+            "id": "1E",
+            "row": 1,
+            "number": "E",
+            "class": "business",
+            "status": "available",
+            "priceMarkup": 200.0
+          },
+          {
+            "id": "1F",
+            "row": 1,
+            "number": "F",
+            "class": "business",
+            "status": "available",
+            "priceMarkup": 200.0
+          },
+          {
+            "id": "2A",
+            "row": 2,
+            "number": "A",
+            "class": "premium",
+            "status": "available",
+            "priceMarkup": 85.0
+          },
+          {
+            "id": "2B",
+            "row": 2,
+            "number": "B",
+            "class": "premium",
+            "status": "occupied",
+            "priceMarkup": 85.0
+          },
+          {
+            "id": "2C",
+            "row": 2,
+            "number": "C",
+            "class": "premium",
+            "status": "available",
+            "priceMarkup": 85.0
+          },
+          {
+            "id": "2D",
+            "row": 2,
+            "number": "D",
+            "class": "premium",
+            "status": "available",
+            "priceMarkup": 85.0
+          },
+          {
+            "id": "2E",
+            "row": 2,
+            "number": "E",
+            "class": "premium",
+            "status": "occupied",
+            "priceMarkup": 85.0
+          },
+          {
+            "id": "2F",
+            "row": 2,
+            "number": "F",
+            "class": "premium",
+            "status": "available",
+            "priceMarkup": 85.0
+          },
+          {
+            "id": "3A",
+            "row": 3,
+            "number": "A",
+            "class": "economy",
+            "status": "available",
+            "priceMarkup": 0.0
+          },
+          {
+            "id": "3B",
+            "row": 3,
+            "number": "B",
+            "class": "economy",
+            "status": "available",
+            "priceMarkup": 0.0
+          },
+          {
+            "id": "3C",
+            "row": 3,
+            "number": "C",
+            "class": "economy",
+            "status": "occupied",
+            "priceMarkup": 0.0
+          },
+          {
+            "id": "3D",
+            "row": 3,
+            "number": "D",
+            "class": "economy",
+            "status": "available",
+            "priceMarkup": 0.0
+          },
+          {
+            "id": "3E",
+            "row": 3,
+            "number": "E",
+            "class": "economy",
+            "status": "available",
+            "priceMarkup": 0.0
+          },
+          {
+            "id": "3F",
+            "row": 3,
+            "number": "F",
+            "class": "economy",
+            "status": "occupied",
+            "priceMarkup": 0.0
+          }
+        ]
+      },
+      "airlineLogoUrl": "https://www.google.com/s2/favicons?domain=qatarairways.com&sz=128"
+    },
+    {
+      "id": "FL-1046",
+      "airline": "Qatar Airways",
+      "airlineLogo": "gem",
+      "departureCity": "Doha",
+      "departureCode": "DOH",
+      "arrivalCity": "London",
+      "arrivalCode": "LHR",
+      "departureTime": "2026-07-15T20:00:00Z",
+      "arrivalTime": "2026-07-16T03:20:00Z",
+      "duration": "7h 20m",
+      "basePrice": 750.0,
+      "cabinLayout": {
+        "aircraft": "Airbus A350-1000",
+        "rows": 12,
+        "configuration": "3-3",
+        "seats": [
+          {
+            "id": "1A",
+            "row": 1,
+            "number": "A",
+            "class": "business",
+            "status": "occupied",
+            "priceMarkup": 200.0
+          },
+          {
+            "id": "1B",
+            "row": 1,
+            "number": "B",
+            "class": "business",
+            "status": "available",
+            "priceMarkup": 200.0
+          },
+          {
+            "id": "1C",
+            "row": 1,
+            "number": "C",
+            "class": "business",
+            "status": "available",
+            "priceMarkup": 200.0
+          },
+          {
+            "id": "1D",
+            "row": 1,
+            "number": "D",
+            "class": "business",
+            "status": "occupied",
+            "priceMarkup": 200.0
+          },
+          {
+            "id": "1E",
+            "row": 1,
+            "number": "E",
+            "class": "business",
+            "status": "available",
+            "priceMarkup": 200.0
+          },
+          {
+            "id": "1F",
+            "row": 1,
+            "number": "F",
+            "class": "business",
+            "status": "available",
+            "priceMarkup": 200.0
+          },
+          {
+            "id": "2A",
+            "row": 2,
+            "number": "A",
+            "class": "premium",
+            "status": "available",
+            "priceMarkup": 85.0
+          },
+          {
+            "id": "2B",
+            "row": 2,
+            "number": "B",
+            "class": "premium",
+            "status": "occupied",
+            "priceMarkup": 85.0
+          },
+          {
+            "id": "2C",
+            "row": 2,
+            "number": "C",
+            "class": "premium",
+            "status": "available",
+            "priceMarkup": 85.0
+          },
+          {
+            "id": "2D",
+            "row": 2,
+            "number": "D",
+            "class": "premium",
+            "status": "available",
+            "priceMarkup": 85.0
+          },
+          {
+            "id": "2E",
+            "row": 2,
+            "number": "E",
+            "class": "premium",
+            "status": "occupied",
+            "priceMarkup": 85.0
+          },
+          {
+            "id": "2F",
+            "row": 2,
+            "number": "F",
+            "class": "premium",
+            "status": "available",
+            "priceMarkup": 85.0
+          },
+          {
+            "id": "3A",
+            "row": 3,
+            "number": "A",
+            "class": "economy",
+            "status": "available",
+            "priceMarkup": 0.0
+          },
+          {
+            "id": "3B",
+            "row": 3,
+            "number": "B",
+            "class": "economy",
+            "status": "available",
+            "priceMarkup": 0.0
+          },
+          {
+            "id": "3C",
+            "row": 3,
+            "number": "C",
+            "class": "economy",
+            "status": "occupied",
+            "priceMarkup": 0.0
+          },
+          {
+            "id": "3D",
+            "row": 3,
+            "number": "D",
+            "class": "economy",
+            "status": "available",
+            "priceMarkup": 0.0
+          },
+          {
+            "id": "3E",
+            "row": 3,
+            "number": "E",
+            "class": "economy",
+            "status": "available",
+            "priceMarkup": 0.0
+          },
+          {
+            "id": "3F",
+            "row": 3,
+            "number": "F",
+            "class": "economy",
+            "status": "occupied",
+            "priceMarkup": 0.0
+          }
+        ]
+      },
+      "airlineLogoUrl": "https://www.google.com/s2/favicons?domain=qatarairways.com&sz=128"
+    },
+    {
+      "id": "FL-1050",
+      "airline": "Singapore Airlines",
+      "airlineLogo": "flower",
+      "departureCity": "Singapore",
+      "departureCode": "SIN",
+      "arrivalCity": "Los Angeles",
+      "arrivalCode": "LAX",
+      "departureTime": "2026-07-15T23:00:00Z",
+      "arrivalTime": "2026-07-16T16:45:00Z",
+      "duration": "17h 45m",
+      "basePrice": 800.0,
+      "cabinLayout": {
+        "aircraft": "Airbus A380-800",
+        "rows": 14,
+        "configuration": "3-3",
+        "seats": [
+          {
+            "id": "1A",
+            "row": 1,
+            "number": "A",
+            "class": "business",
+            "status": "available",
+            "priceMarkup": 250.0
+          },
+          {
+            "id": "1B",
+            "row": 1,
+            "number": "B",
+            "class": "business",
+            "status": "occupied",
+            "priceMarkup": 250.0
+          },
+          {
+            "id": "1C",
+            "row": 1,
+            "number": "C",
+            "class": "business",
+            "status": "occupied",
+            "priceMarkup": 250.0
+          },
+          {
+            "id": "1D",
+            "row": 1,
+            "number": "D",
+            "class": "business",
+            "status": "available",
+            "priceMarkup": 250.0
+          },
+          {
+            "id": "1E",
+            "row": 1,
+            "number": "E",
+            "class": "business",
+            "status": "available",
+            "priceMarkup": 250.0
+          },
+          {
+            "id": "1F",
+            "row": 1,
+            "number": "F",
+            "class": "business",
+            "status": "available",
+            "priceMarkup": 250.0
+          },
+          {
+            "id": "2A",
+            "row": 2,
+            "number": "A",
+            "class": "premium",
+            "status": "occupied",
+            "priceMarkup": 100.0
+          },
+          {
+            "id": "2B",
+            "row": 2,
+            "number": "B",
+            "class": "premium",
+            "status": "available",
+            "priceMarkup": 100.0
+          },
+          {
+            "id": "2C",
+            "row": 2,
+            "number": "C",
+            "class": "premium",
+            "status": "available",
+            "priceMarkup": 100.0
+          },
+          {
+            "id": "2D",
+            "row": 2,
+            "number": "D",
+            "class": "premium",
+            "status": "available",
+            "priceMarkup": 100.0
+          },
+          {
+            "id": "2E",
+            "row": 2,
+            "number": "E",
+            "class": "premium",
+            "status": "available",
+            "priceMarkup": 100.0
+          },
+          {
+            "id": "2F",
+            "row": 2,
+            "number": "F",
+            "class": "premium",
+            "status": "occupied",
+            "priceMarkup": 100.0
+          },
+          {
+            "id": "3A",
+            "row": 3,
+            "number": "A",
+            "class": "economy",
+            "status": "available",
+            "priceMarkup": 0.0
+          },
+          {
+            "id": "3B",
+            "row": 3,
+            "number": "B",
+            "class": "economy",
+            "status": "available",
+            "priceMarkup": 0.0
+          },
+          {
+            "id": "3C",
+            "row": 3,
+            "number": "C",
+            "class": "economy",
+            "status": "available",
+            "priceMarkup": 0.0
+          },
+          {
+            "id": "3D",
+            "row": 3,
+            "number": "D",
+            "class": "economy",
+            "status": "occupied",
+            "priceMarkup": 0.0
+          },
+          {
+            "id": "3E",
+            "row": 3,
+            "number": "E",
+            "class": "economy",
+            "status": "occupied",
+            "priceMarkup": 0.0
+          },
+          {
+            "id": "3F",
+            "row": 3,
+            "number": "F",
+            "class": "economy",
+            "status": "available",
+            "priceMarkup": 0.0
+          }
+        ]
+      },
+      "airlineLogoUrl": "https://www.google.com/s2/favicons?domain=singaporeair.com&sz=128"
+    },
+    {
+      "id": "FL-1051",
+      "airline": "Singapore Airlines",
+      "airlineLogo": "flower",
+      "departureCity": "Singapore",
+      "departureCode": "SIN",
+      "arrivalCity": "Los Angeles",
+      "arrivalCode": "LAX",
+      "departureTime": "2026-07-16T01:00:00Z",
+      "arrivalTime": "2026-07-16T18:45:00Z",
+      "duration": "17h 45m",
+      "basePrice": 830.0,
+      "cabinLayout": {
+        "aircraft": "Airbus A380-800",
+        "rows": 14,
+        "configuration": "3-3",
+        "seats": [
+          {
+            "id": "1A",
+            "row": 1,
+            "number": "A",
+            "class": "business",
+            "status": "available",
+            "priceMarkup": 250.0
+          },
+          {
+            "id": "1B",
+            "row": 1,
+            "number": "B",
+            "class": "business",
+            "status": "occupied",
+            "priceMarkup": 250.0
+          },
+          {
+            "id": "1C",
+            "row": 1,
+            "number": "C",
+            "class": "business",
+            "status": "occupied",
+            "priceMarkup": 250.0
+          },
+          {
+            "id": "1D",
+            "row": 1,
+            "number": "D",
+            "class": "business",
+            "status": "available",
+            "priceMarkup": 250.0
+          },
+          {
+            "id": "1E",
+            "row": 1,
+            "number": "E",
+            "class": "business",
+            "status": "available",
+            "priceMarkup": 250.0
+          },
+          {
+            "id": "1F",
+            "row": 1,
+            "number": "F",
+            "class": "business",
+            "status": "available",
+            "priceMarkup": 250.0
+          },
+          {
+            "id": "2A",
+            "row": 2,
+            "number": "A",
+            "class": "premium",
+            "status": "occupied",
+            "priceMarkup": 100.0
+          },
+          {
+            "id": "2B",
+            "row": 2,
+            "number": "B",
+            "class": "premium",
+            "status": "available",
+            "priceMarkup": 100.0
+          },
+          {
+            "id": "2C",
+            "row": 2,
+            "number": "C",
+            "class": "premium",
+            "status": "available",
+            "priceMarkup": 100.0
+          },
+          {
+            "id": "2D",
+            "row": 2,
+            "number": "D",
+            "class": "premium",
+            "status": "available",
+            "priceMarkup": 100.0
+          },
+          {
+            "id": "2E",
+            "row": 2,
+            "number": "E",
+            "class": "premium",
+            "status": "available",
+            "priceMarkup": 100.0
+          },
+          {
+            "id": "2F",
+            "row": 2,
+            "number": "F",
+            "class": "premium",
+            "status": "occupied",
+            "priceMarkup": 100.0
+          },
+          {
+            "id": "3A",
+            "row": 3,
+            "number": "A",
+            "class": "economy",
+            "status": "available",
+            "priceMarkup": 0.0
+          },
+          {
+            "id": "3B",
+            "row": 3,
+            "number": "B",
+            "class": "economy",
+            "status": "available",
+            "priceMarkup": 0.0
+          },
+          {
+            "id": "3C",
+            "row": 3,
+            "number": "C",
+            "class": "economy",
+            "status": "available",
+            "priceMarkup": 0.0
+          },
+          {
+            "id": "3D",
+            "row": 3,
+            "number": "D",
+            "class": "economy",
+            "status": "occupied",
+            "priceMarkup": 0.0
+          },
+          {
+            "id": "3E",
+            "row": 3,
+            "number": "E",
+            "class": "economy",
+            "status": "occupied",
+            "priceMarkup": 0.0
+          },
+          {
+            "id": "3F",
+            "row": 3,
+            "number": "F",
+            "class": "economy",
+            "status": "available",
+            "priceMarkup": 0.0
+          }
+        ]
+      },
+      "airlineLogoUrl": "https://www.google.com/s2/favicons?domain=singaporeair.com&sz=128"
+    },
+    {
+      "id": "FL-1052",
+      "airline": "Singapore Airlines",
+      "airlineLogo": "flower",
+      "departureCity": "Singapore",
+      "departureCode": "SIN",
+      "arrivalCity": "Los Angeles",
+      "arrivalCode": "LAX",
+      "departureTime": "2026-07-16T03:00:00Z",
+      "arrivalTime": "2026-07-16T20:45:00Z",
+      "duration": "17h 45m",
+      "basePrice": 860.0,
+      "cabinLayout": {
+        "aircraft": "Airbus A380-800",
+        "rows": 14,
+        "configuration": "3-3",
+        "seats": [
+          {
+            "id": "1A",
+            "row": 1,
+            "number": "A",
+            "class": "business",
+            "status": "available",
+            "priceMarkup": 250.0
+          },
+          {
+            "id": "1B",
+            "row": 1,
+            "number": "B",
+            "class": "business",
+            "status": "occupied",
+            "priceMarkup": 250.0
+          },
+          {
+            "id": "1C",
+            "row": 1,
+            "number": "C",
+            "class": "business",
+            "status": "occupied",
+            "priceMarkup": 250.0
+          },
+          {
+            "id": "1D",
+            "row": 1,
+            "number": "D",
+            "class": "business",
+            "status": "available",
+            "priceMarkup": 250.0
+          },
+          {
+            "id": "1E",
+            "row": 1,
+            "number": "E",
+            "class": "business",
+            "status": "available",
+            "priceMarkup": 250.0
+          },
+          {
+            "id": "1F",
+            "row": 1,
+            "number": "F",
+            "class": "business",
+            "status": "available",
+            "priceMarkup": 250.0
+          },
+          {
+            "id": "2A",
+            "row": 2,
+            "number": "A",
+            "class": "premium",
+            "status": "occupied",
+            "priceMarkup": 100.0
+          },
+          {
+            "id": "2B",
+            "row": 2,
+            "number": "B",
+            "class": "premium",
+            "status": "available",
+            "priceMarkup": 100.0
+          },
+          {
+            "id": "2C",
+            "row": 2,
+            "number": "C",
+            "class": "premium",
+            "status": "available",
+            "priceMarkup": 100.0
+          },
+          {
+            "id": "2D",
+            "row": 2,
+            "number": "D",
+            "class": "premium",
+            "status": "available",
+            "priceMarkup": 100.0
+          },
+          {
+            "id": "2E",
+            "row": 2,
+            "number": "E",
+            "class": "premium",
+            "status": "available",
+            "priceMarkup": 100.0
+          },
+          {
+            "id": "2F",
+            "row": 2,
+            "number": "F",
+            "class": "premium",
+            "status": "occupied",
+            "priceMarkup": 100.0
+          },
+          {
+            "id": "3A",
+            "row": 3,
+            "number": "A",
+            "class": "economy",
+            "status": "available",
+            "priceMarkup": 0.0
+          },
+          {
+            "id": "3B",
+            "row": 3,
+            "number": "B",
+            "class": "economy",
+            "status": "available",
+            "priceMarkup": 0.0
+          },
+          {
+            "id": "3C",
+            "row": 3,
+            "number": "C",
+            "class": "economy",
+            "status": "available",
+            "priceMarkup": 0.0
+          },
+          {
+            "id": "3D",
+            "row": 3,
+            "number": "D",
+            "class": "economy",
+            "status": "occupied",
+            "priceMarkup": 0.0
+          },
+          {
+            "id": "3E",
+            "row": 3,
+            "number": "E",
+            "class": "economy",
+            "status": "occupied",
+            "priceMarkup": 0.0
+          },
+          {
+            "id": "3F",
+            "row": 3,
+            "number": "F",
+            "class": "economy",
+            "status": "available",
+            "priceMarkup": 0.0
+          }
+        ]
+      },
+      "airlineLogoUrl": "https://www.google.com/s2/favicons?domain=singaporeair.com&sz=128"
+    },
+    {
+      "id": "FL-1053",
+      "airline": "Singapore Airlines",
+      "airlineLogo": "flower",
+      "departureCity": "Singapore",
+      "departureCode": "SIN",
+      "arrivalCity": "Los Angeles",
+      "arrivalCode": "LAX",
+      "departureTime": "2026-07-16T05:00:00Z",
+      "arrivalTime": "2026-07-16T22:45:00Z",
+      "duration": "17h 45m",
+      "basePrice": 890.0,
+      "cabinLayout": {
+        "aircraft": "Airbus A380-800",
+        "rows": 14,
+        "configuration": "3-3",
+        "seats": [
+          {
+            "id": "1A",
+            "row": 1,
+            "number": "A",
+            "class": "business",
+            "status": "available",
+            "priceMarkup": 250.0
+          },
+          {
+            "id": "1B",
+            "row": 1,
+            "number": "B",
+            "class": "business",
+            "status": "occupied",
+            "priceMarkup": 250.0
+          },
+          {
+            "id": "1C",
+            "row": 1,
+            "number": "C",
+            "class": "business",
+            "status": "occupied",
+            "priceMarkup": 250.0
+          },
+          {
+            "id": "1D",
+            "row": 1,
+            "number": "D",
+            "class": "business",
+            "status": "available",
+            "priceMarkup": 250.0
+          },
+          {
+            "id": "1E",
+            "row": 1,
+            "number": "E",
+            "class": "business",
+            "status": "available",
+            "priceMarkup": 250.0
+          },
+          {
+            "id": "1F",
+            "row": 1,
+            "number": "F",
+            "class": "business",
+            "status": "available",
+            "priceMarkup": 250.0
+          },
+          {
+            "id": "2A",
+            "row": 2,
+            "number": "A",
+            "class": "premium",
+            "status": "occupied",
+            "priceMarkup": 100.0
+          },
+          {
+            "id": "2B",
+            "row": 2,
+            "number": "B",
+            "class": "premium",
+            "status": "available",
+            "priceMarkup": 100.0
+          },
+          {
+            "id": "2C",
+            "row": 2,
+            "number": "C",
+            "class": "premium",
+            "status": "available",
+            "priceMarkup": 100.0
+          },
+          {
+            "id": "2D",
+            "row": 2,
+            "number": "D",
+            "class": "premium",
+            "status": "available",
+            "priceMarkup": 100.0
+          },
+          {
+            "id": "2E",
+            "row": 2,
+            "number": "E",
+            "class": "premium",
+            "status": "available",
+            "priceMarkup": 100.0
+          },
+          {
+            "id": "2F",
+            "row": 2,
+            "number": "F",
+            "class": "premium",
+            "status": "occupied",
+            "priceMarkup": 100.0
+          },
+          {
+            "id": "3A",
+            "row": 3,
+            "number": "A",
+            "class": "economy",
+            "status": "available",
+            "priceMarkup": 0.0
+          },
+          {
+            "id": "3B",
+            "row": 3,
+            "number": "B",
+            "class": "economy",
+            "status": "available",
+            "priceMarkup": 0.0
+          },
+          {
+            "id": "3C",
+            "row": 3,
+            "number": "C",
+            "class": "economy",
+            "status": "available",
+            "priceMarkup": 0.0
+          },
+          {
+            "id": "3D",
+            "row": 3,
+            "number": "D",
+            "class": "economy",
+            "status": "occupied",
+            "priceMarkup": 0.0
+          },
+          {
+            "id": "3E",
+            "row": 3,
+            "number": "E",
+            "class": "economy",
+            "status": "occupied",
+            "priceMarkup": 0.0
+          },
+          {
+            "id": "3F",
+            "row": 3,
+            "number": "F",
+            "class": "economy",
+            "status": "available",
+            "priceMarkup": 0.0
+          }
+        ]
+      },
+      "airlineLogoUrl": "https://www.google.com/s2/favicons?domain=singaporeair.com&sz=128"
+    },
+    {
+      "id": "FL-1054",
+      "airline": "Singapore Airlines",
+      "airlineLogo": "flower",
+      "departureCity": "Singapore",
+      "departureCode": "SIN",
+      "arrivalCity": "Los Angeles",
+      "arrivalCode": "LAX",
+      "departureTime": "2026-07-16T07:00:00Z",
+      "arrivalTime": "2026-07-17T00:45:00Z",
+      "duration": "17h 45m",
+      "basePrice": 920.0,
+      "cabinLayout": {
+        "aircraft": "Airbus A380-800",
+        "rows": 14,
+        "configuration": "3-3",
+        "seats": [
+          {
+            "id": "1A",
+            "row": 1,
+            "number": "A",
+            "class": "business",
+            "status": "available",
+            "priceMarkup": 250.0
+          },
+          {
+            "id": "1B",
+            "row": 1,
+            "number": "B",
+            "class": "business",
+            "status": "occupied",
+            "priceMarkup": 250.0
+          },
+          {
+            "id": "1C",
+            "row": 1,
+            "number": "C",
+            "class": "business",
+            "status": "occupied",
+            "priceMarkup": 250.0
+          },
+          {
+            "id": "1D",
+            "row": 1,
+            "number": "D",
+            "class": "business",
+            "status": "available",
+            "priceMarkup": 250.0
+          },
+          {
+            "id": "1E",
+            "row": 1,
+            "number": "E",
+            "class": "business",
+            "status": "available",
+            "priceMarkup": 250.0
+          },
+          {
+            "id": "1F",
+            "row": 1,
+            "number": "F",
+            "class": "business",
+            "status": "available",
+            "priceMarkup": 250.0
+          },
+          {
+            "id": "2A",
+            "row": 2,
+            "number": "A",
+            "class": "premium",
+            "status": "occupied",
+            "priceMarkup": 100.0
+          },
+          {
+            "id": "2B",
+            "row": 2,
+            "number": "B",
+            "class": "premium",
+            "status": "available",
+            "priceMarkup": 100.0
+          },
+          {
+            "id": "2C",
+            "row": 2,
+            "number": "C",
+            "class": "premium",
+            "status": "available",
+            "priceMarkup": 100.0
+          },
+          {
+            "id": "2D",
+            "row": 2,
+            "number": "D",
+            "class": "premium",
+            "status": "available",
+            "priceMarkup": 100.0
+          },
+          {
+            "id": "2E",
+            "row": 2,
+            "number": "E",
+            "class": "premium",
+            "status": "available",
+            "priceMarkup": 100.0
+          },
+          {
+            "id": "2F",
+            "row": 2,
+            "number": "F",
+            "class": "premium",
+            "status": "occupied",
+            "priceMarkup": 100.0
+          },
+          {
+            "id": "3A",
+            "row": 3,
+            "number": "A",
+            "class": "economy",
+            "status": "available",
+            "priceMarkup": 0.0
+          },
+          {
+            "id": "3B",
+            "row": 3,
+            "number": "B",
+            "class": "economy",
+            "status": "available",
+            "priceMarkup": 0.0
+          },
+          {
+            "id": "3C",
+            "row": 3,
+            "number": "C",
+            "class": "economy",
+            "status": "available",
+            "priceMarkup": 0.0
+          },
+          {
+            "id": "3D",
+            "row": 3,
+            "number": "D",
+            "class": "economy",
+            "status": "occupied",
+            "priceMarkup": 0.0
+          },
+          {
+            "id": "3E",
+            "row": 3,
+            "number": "E",
+            "class": "economy",
+            "status": "occupied",
+            "priceMarkup": 0.0
+          },
+          {
+            "id": "3F",
+            "row": 3,
+            "number": "F",
+            "class": "economy",
+            "status": "available",
+            "priceMarkup": 0.0
+          }
+        ]
+      },
+      "airlineLogoUrl": "https://www.google.com/s2/favicons?domain=singaporeair.com&sz=128"
+    },
+    {
+      "id": "FL-1055",
+      "airline": "Singapore Airlines",
+      "airlineLogo": "flower",
+      "departureCity": "Singapore",
+      "departureCode": "SIN",
+      "arrivalCity": "Los Angeles",
+      "arrivalCode": "LAX",
+      "departureTime": "2026-07-16T09:00:00Z",
+      "arrivalTime": "2026-07-17T02:45:00Z",
+      "duration": "17h 45m",
+      "basePrice": 950.0,
+      "cabinLayout": {
+        "aircraft": "Airbus A380-800",
+        "rows": 14,
+        "configuration": "3-3",
+        "seats": [
+          {
+            "id": "1A",
+            "row": 1,
+            "number": "A",
+            "class": "business",
+            "status": "available",
+            "priceMarkup": 250.0
+          },
+          {
+            "id": "1B",
+            "row": 1,
+            "number": "B",
+            "class": "business",
+            "status": "occupied",
+            "priceMarkup": 250.0
+          },
+          {
+            "id": "1C",
+            "row": 1,
+            "number": "C",
+            "class": "business",
+            "status": "occupied",
+            "priceMarkup": 250.0
+          },
+          {
+            "id": "1D",
+            "row": 1,
+            "number": "D",
+            "class": "business",
+            "status": "available",
+            "priceMarkup": 250.0
+          },
+          {
+            "id": "1E",
+            "row": 1,
+            "number": "E",
+            "class": "business",
+            "status": "available",
+            "priceMarkup": 250.0
+          },
+          {
+            "id": "1F",
+            "row": 1,
+            "number": "F",
+            "class": "business",
+            "status": "available",
+            "priceMarkup": 250.0
+          },
+          {
+            "id": "2A",
+            "row": 2,
+            "number": "A",
+            "class": "premium",
+            "status": "occupied",
+            "priceMarkup": 100.0
+          },
+          {
+            "id": "2B",
+            "row": 2,
+            "number": "B",
+            "class": "premium",
+            "status": "available",
+            "priceMarkup": 100.0
+          },
+          {
+            "id": "2C",
+            "row": 2,
+            "number": "C",
+            "class": "premium",
+            "status": "available",
+            "priceMarkup": 100.0
+          },
+          {
+            "id": "2D",
+            "row": 2,
+            "number": "D",
+            "class": "premium",
+            "status": "available",
+            "priceMarkup": 100.0
+          },
+          {
+            "id": "2E",
+            "row": 2,
+            "number": "E",
+            "class": "premium",
+            "status": "available",
+            "priceMarkup": 100.0
+          },
+          {
+            "id": "2F",
+            "row": 2,
+            "number": "F",
+            "class": "premium",
+            "status": "occupied",
+            "priceMarkup": 100.0
+          },
+          {
+            "id": "3A",
+            "row": 3,
+            "number": "A",
+            "class": "economy",
+            "status": "available",
+            "priceMarkup": 0.0
+          },
+          {
+            "id": "3B",
+            "row": 3,
+            "number": "B",
+            "class": "economy",
+            "status": "available",
+            "priceMarkup": 0.0
+          },
+          {
+            "id": "3C",
+            "row": 3,
+            "number": "C",
+            "class": "economy",
+            "status": "available",
+            "priceMarkup": 0.0
+          },
+          {
+            "id": "3D",
+            "row": 3,
+            "number": "D",
+            "class": "economy",
+            "status": "occupied",
+            "priceMarkup": 0.0
+          },
+          {
+            "id": "3E",
+            "row": 3,
+            "number": "E",
+            "class": "economy",
+            "status": "occupied",
+            "priceMarkup": 0.0
+          },
+          {
+            "id": "3F",
+            "row": 3,
+            "number": "F",
+            "class": "economy",
+            "status": "available",
+            "priceMarkup": 0.0
+          }
+        ]
+      },
+      "airlineLogoUrl": "https://www.google.com/s2/favicons?domain=singaporeair.com&sz=128"
+    },
+    {
+      "id": "FL-1056",
+      "airline": "Singapore Airlines",
+      "airlineLogo": "flower",
+      "departureCity": "Singapore",
+      "departureCode": "SIN",
+      "arrivalCity": "Los Angeles",
+      "arrivalCode": "LAX",
+      "departureTime": "2026-07-16T11:00:00Z",
+      "arrivalTime": "2026-07-17T04:45:00Z",
+      "duration": "17h 45m",
+      "basePrice": 980.0,
+      "cabinLayout": {
+        "aircraft": "Airbus A380-800",
+        "rows": 14,
+        "configuration": "3-3",
+        "seats": [
+          {
+            "id": "1A",
+            "row": 1,
+            "number": "A",
+            "class": "business",
+            "status": "available",
+            "priceMarkup": 250.0
+          },
+          {
+            "id": "1B",
+            "row": 1,
+            "number": "B",
+            "class": "business",
+            "status": "occupied",
+            "priceMarkup": 250.0
+          },
+          {
+            "id": "1C",
+            "row": 1,
+            "number": "C",
+            "class": "business",
+            "status": "occupied",
+            "priceMarkup": 250.0
+          },
+          {
+            "id": "1D",
+            "row": 1,
+            "number": "D",
+            "class": "business",
+            "status": "available",
+            "priceMarkup": 250.0
+          },
+          {
+            "id": "1E",
+            "row": 1,
+            "number": "E",
+            "class": "business",
+            "status": "available",
+            "priceMarkup": 250.0
+          },
+          {
+            "id": "1F",
+            "row": 1,
+            "number": "F",
+            "class": "business",
+            "status": "available",
+            "priceMarkup": 250.0
+          },
+          {
+            "id": "2A",
+            "row": 2,
+            "number": "A",
+            "class": "premium",
+            "status": "occupied",
+            "priceMarkup": 100.0
+          },
+          {
+            "id": "2B",
+            "row": 2,
+            "number": "B",
+            "class": "premium",
+            "status": "available",
+            "priceMarkup": 100.0
+          },
+          {
+            "id": "2C",
+            "row": 2,
+            "number": "C",
+            "class": "premium",
+            "status": "available",
+            "priceMarkup": 100.0
+          },
+          {
+            "id": "2D",
+            "row": 2,
+            "number": "D",
+            "class": "premium",
+            "status": "available",
+            "priceMarkup": 100.0
+          },
+          {
+            "id": "2E",
+            "row": 2,
+            "number": "E",
+            "class": "premium",
+            "status": "available",
+            "priceMarkup": 100.0
+          },
+          {
+            "id": "2F",
+            "row": 2,
+            "number": "F",
+            "class": "premium",
+            "status": "occupied",
+            "priceMarkup": 100.0
+          },
+          {
+            "id": "3A",
+            "row": 3,
+            "number": "A",
+            "class": "economy",
+            "status": "available",
+            "priceMarkup": 0.0
+          },
+          {
+            "id": "3B",
+            "row": 3,
+            "number": "B",
+            "class": "economy",
+            "status": "available",
+            "priceMarkup": 0.0
+          },
+          {
+            "id": "3C",
+            "row": 3,
+            "number": "C",
+            "class": "economy",
+            "status": "available",
+            "priceMarkup": 0.0
+          },
+          {
+            "id": "3D",
+            "row": 3,
+            "number": "D",
+            "class": "economy",
+            "status": "occupied",
+            "priceMarkup": 0.0
+          },
+          {
+            "id": "3E",
+            "row": 3,
+            "number": "E",
+            "class": "economy",
+            "status": "occupied",
+            "priceMarkup": 0.0
+          },
+          {
+            "id": "3F",
+            "row": 3,
+            "number": "F",
+            "class": "economy",
+            "status": "available",
+            "priceMarkup": 0.0
+          }
+        ]
+      },
+      "airlineLogoUrl": "https://www.google.com/s2/favicons?domain=singaporeair.com&sz=128"
+    },
+    {
+      "id": "FL-1060",
+      "airline": "Lufthansa",
+      "airlineLogo": "feather",
+      "departureCity": "Frankfurt",
+      "departureCode": "FRA",
+      "arrivalCity": "Chicago",
+      "arrivalCode": "ORD",
+      "departureTime": "2026-07-15T09:00:00Z",
+      "arrivalTime": "2026-07-15T18:50:00Z",
+      "duration": "9h 50m",
+      "basePrice": 550.0,
+      "cabinLayout": {
+        "aircraft": "Boeing 747-8",
+        "rows": 11,
+        "configuration": "3-3",
+        "seats": [
+          {
+            "id": "1A",
+            "row": 1,
+            "number": "A",
+            "class": "business",
+            "status": "available",
+            "priceMarkup": 180.0
+          },
+          {
+            "id": "1B",
+            "row": 1,
+            "number": "B",
+            "class": "business",
+            "status": "available",
+            "priceMarkup": 180.0
+          },
+          {
+            "id": "1C",
+            "row": 1,
+            "number": "C",
+            "class": "business",
+            "status": "occupied",
+            "priceMarkup": 180.0
+          },
+          {
+            "id": "1D",
+            "row": 1,
+            "number": "D",
+            "class": "business",
+            "status": "occupied",
+            "priceMarkup": 180.0
+          },
+          {
+            "id": "1E",
+            "row": 1,
+            "number": "E",
+            "class": "business",
+            "status": "available",
+            "priceMarkup": 180.0
+          },
+          {
+            "id": "1F",
+            "row": 1,
+            "number": "F",
+            "class": "business",
+            "status": "available",
+            "priceMarkup": 180.0
+          },
+          {
+            "id": "2A",
+            "row": 2,
+            "number": "A",
+            "class": "premium",
+            "status": "available",
+            "priceMarkup": 75.0
+          },
+          {
+            "id": "2B",
+            "row": 2,
+            "number": "B",
+            "class": "premium",
+            "status": "occupied",
+            "priceMarkup": 75.0
+          },
+          {
+            "id": "2C",
+            "row": 2,
+            "number": "C",
+            "class": "premium",
+            "status": "available",
+            "priceMarkup": 75.0
+          },
+          {
+            "id": "2D",
+            "row": 2,
+            "number": "D",
+            "class": "premium",
+            "status": "available",
+            "priceMarkup": 75.0
+          },
+          {
+            "id": "2E",
+            "row": 2,
+            "number": "E",
+            "class": "premium",
+            "status": "occupied",
+            "priceMarkup": 75.0
+          },
+          {
+            "id": "2F",
+            "row": 2,
+            "number": "F",
+            "class": "premium",
+            "status": "available",
+            "priceMarkup": 75.0
+          },
+          {
+            "id": "3A",
+            "row": 3,
+            "number": "A",
+            "class": "economy",
+            "status": "occupied",
+            "priceMarkup": 0.0
+          },
+          {
+            "id": "3B",
+            "row": 3,
+            "number": "B",
+            "class": "economy",
+            "status": "available",
+            "priceMarkup": 0.0
+          },
+          {
+            "id": "3C",
+            "row": 3,
+            "number": "C",
+            "class": "economy",
+            "status": "available",
+            "priceMarkup": 0.0
+          },
+          {
+            "id": "3D",
+            "row": 3,
+            "number": "D",
+            "class": "economy",
+            "status": "available",
+            "priceMarkup": 0.0
+          },
+          {
+            "id": "3E",
+            "row": 3,
+            "number": "E",
+            "class": "economy",
+            "status": "available",
+            "priceMarkup": 0.0
+          },
+          {
+            "id": "3F",
+            "row": 3,
+            "number": "F",
+            "class": "economy",
+            "status": "occupied",
+            "priceMarkup": 0.0
+          }
+        ]
+      },
+      "airlineLogoUrl": "https://www.google.com/s2/favicons?domain=lufthansa.com&sz=128"
+    },
+    {
+      "id": "FL-1061",
+      "airline": "Lufthansa",
+      "airlineLogo": "feather",
+      "departureCity": "Frankfurt",
+      "departureCode": "FRA",
+      "arrivalCity": "Chicago",
+      "arrivalCode": "ORD",
+      "departureTime": "2026-07-15T11:00:00Z",
+      "arrivalTime": "2026-07-15T20:50:00Z",
+      "duration": "9h 50m",
+      "basePrice": 575.0,
+      "cabinLayout": {
+        "aircraft": "Boeing 747-8",
+        "rows": 11,
+        "configuration": "3-3",
+        "seats": [
+          {
+            "id": "1A",
+            "row": 1,
+            "number": "A",
+            "class": "business",
+            "status": "available",
+            "priceMarkup": 180.0
+          },
+          {
+            "id": "1B",
+            "row": 1,
+            "number": "B",
+            "class": "business",
+            "status": "available",
+            "priceMarkup": 180.0
+          },
+          {
+            "id": "1C",
+            "row": 1,
+            "number": "C",
+            "class": "business",
+            "status": "occupied",
+            "priceMarkup": 180.0
+          },
+          {
+            "id": "1D",
+            "row": 1,
+            "number": "D",
+            "class": "business",
+            "status": "occupied",
+            "priceMarkup": 180.0
+          },
+          {
+            "id": "1E",
+            "row": 1,
+            "number": "E",
+            "class": "business",
+            "status": "available",
+            "priceMarkup": 180.0
+          },
+          {
+            "id": "1F",
+            "row": 1,
+            "number": "F",
+            "class": "business",
+            "status": "available",
+            "priceMarkup": 180.0
+          },
+          {
+            "id": "2A",
+            "row": 2,
+            "number": "A",
+            "class": "premium",
+            "status": "available",
+            "priceMarkup": 75.0
+          },
+          {
+            "id": "2B",
+            "row": 2,
+            "number": "B",
+            "class": "premium",
+            "status": "occupied",
+            "priceMarkup": 75.0
+          },
+          {
+            "id": "2C",
+            "row": 2,
+            "number": "C",
+            "class": "premium",
+            "status": "available",
+            "priceMarkup": 75.0
+          },
+          {
+            "id": "2D",
+            "row": 2,
+            "number": "D",
+            "class": "premium",
+            "status": "available",
+            "priceMarkup": 75.0
+          },
+          {
+            "id": "2E",
+            "row": 2,
+            "number": "E",
+            "class": "premium",
+            "status": "occupied",
+            "priceMarkup": 75.0
+          },
+          {
+            "id": "2F",
+            "row": 2,
+            "number": "F",
+            "class": "premium",
+            "status": "available",
+            "priceMarkup": 75.0
+          },
+          {
+            "id": "3A",
+            "row": 3,
+            "number": "A",
+            "class": "economy",
+            "status": "occupied",
+            "priceMarkup": 0.0
+          },
+          {
+            "id": "3B",
+            "row": 3,
+            "number": "B",
+            "class": "economy",
+            "status": "available",
+            "priceMarkup": 0.0
+          },
+          {
+            "id": "3C",
+            "row": 3,
+            "number": "C",
+            "class": "economy",
+            "status": "available",
+            "priceMarkup": 0.0
+          },
+          {
+            "id": "3D",
+            "row": 3,
+            "number": "D",
+            "class": "economy",
+            "status": "available",
+            "priceMarkup": 0.0
+          },
+          {
+            "id": "3E",
+            "row": 3,
+            "number": "E",
+            "class": "economy",
+            "status": "available",
+            "priceMarkup": 0.0
+          },
+          {
+            "id": "3F",
+            "row": 3,
+            "number": "F",
+            "class": "economy",
+            "status": "occupied",
+            "priceMarkup": 0.0
+          }
+        ]
+      },
+      "airlineLogoUrl": "https://www.google.com/s2/favicons?domain=lufthansa.com&sz=128"
+    },
+    {
+      "id": "FL-1062",
+      "airline": "Lufthansa",
+      "airlineLogo": "feather",
+      "departureCity": "Frankfurt",
+      "departureCode": "FRA",
+      "arrivalCity": "Chicago",
+      "arrivalCode": "ORD",
+      "departureTime": "2026-07-15T13:00:00Z",
+      "arrivalTime": "2026-07-15T22:50:00Z",
+      "duration": "9h 50m",
+      "basePrice": 600.0,
+      "cabinLayout": {
+        "aircraft": "Boeing 747-8",
+        "rows": 11,
+        "configuration": "3-3",
+        "seats": [
+          {
+            "id": "1A",
+            "row": 1,
+            "number": "A",
+            "class": "business",
+            "status": "available",
+            "priceMarkup": 180.0
+          },
+          {
+            "id": "1B",
+            "row": 1,
+            "number": "B",
+            "class": "business",
+            "status": "available",
+            "priceMarkup": 180.0
+          },
+          {
+            "id": "1C",
+            "row": 1,
+            "number": "C",
+            "class": "business",
+            "status": "occupied",
+            "priceMarkup": 180.0
+          },
+          {
+            "id": "1D",
+            "row": 1,
+            "number": "D",
+            "class": "business",
+            "status": "occupied",
+            "priceMarkup": 180.0
+          },
+          {
+            "id": "1E",
+            "row": 1,
+            "number": "E",
+            "class": "business",
+            "status": "available",
+            "priceMarkup": 180.0
+          },
+          {
+            "id": "1F",
+            "row": 1,
+            "number": "F",
+            "class": "business",
+            "status": "available",
+            "priceMarkup": 180.0
+          },
+          {
+            "id": "2A",
+            "row": 2,
+            "number": "A",
+            "class": "premium",
+            "status": "available",
+            "priceMarkup": 75.0
+          },
+          {
+            "id": "2B",
+            "row": 2,
+            "number": "B",
+            "class": "premium",
+            "status": "occupied",
+            "priceMarkup": 75.0
+          },
+          {
+            "id": "2C",
+            "row": 2,
+            "number": "C",
+            "class": "premium",
+            "status": "available",
+            "priceMarkup": 75.0
+          },
+          {
+            "id": "2D",
+            "row": 2,
+            "number": "D",
+            "class": "premium",
+            "status": "available",
+            "priceMarkup": 75.0
+          },
+          {
+            "id": "2E",
+            "row": 2,
+            "number": "E",
+            "class": "premium",
+            "status": "occupied",
+            "priceMarkup": 75.0
+          },
+          {
+            "id": "2F",
+            "row": 2,
+            "number": "F",
+            "class": "premium",
+            "status": "available",
+            "priceMarkup": 75.0
+          },
+          {
+            "id": "3A",
+            "row": 3,
+            "number": "A",
+            "class": "economy",
+            "status": "occupied",
+            "priceMarkup": 0.0
+          },
+          {
+            "id": "3B",
+            "row": 3,
+            "number": "B",
+            "class": "economy",
+            "status": "available",
+            "priceMarkup": 0.0
+          },
+          {
+            "id": "3C",
+            "row": 3,
+            "number": "C",
+            "class": "economy",
+            "status": "available",
+            "priceMarkup": 0.0
+          },
+          {
+            "id": "3D",
+            "row": 3,
+            "number": "D",
+            "class": "economy",
+            "status": "available",
+            "priceMarkup": 0.0
+          },
+          {
+            "id": "3E",
+            "row": 3,
+            "number": "E",
+            "class": "economy",
+            "status": "available",
+            "priceMarkup": 0.0
+          },
+          {
+            "id": "3F",
+            "row": 3,
+            "number": "F",
+            "class": "economy",
+            "status": "occupied",
+            "priceMarkup": 0.0
+          }
+        ]
+      },
+      "airlineLogoUrl": "https://www.google.com/s2/favicons?domain=lufthansa.com&sz=128"
+    },
+    {
+      "id": "FL-1063",
+      "airline": "Lufthansa",
+      "airlineLogo": "feather",
+      "departureCity": "Frankfurt",
+      "departureCode": "FRA",
+      "arrivalCity": "Chicago",
+      "arrivalCode": "ORD",
+      "departureTime": "2026-07-15T15:00:00Z",
+      "arrivalTime": "2026-07-16T00:50:00Z",
+      "duration": "9h 50m",
+      "basePrice": 625.0,
+      "cabinLayout": {
+        "aircraft": "Boeing 747-8",
+        "rows": 11,
+        "configuration": "3-3",
+        "seats": [
+          {
+            "id": "1A",
+            "row": 1,
+            "number": "A",
+            "class": "business",
+            "status": "available",
+            "priceMarkup": 180.0
+          },
+          {
+            "id": "1B",
+            "row": 1,
+            "number": "B",
+            "class": "business",
+            "status": "available",
+            "priceMarkup": 180.0
+          },
+          {
+            "id": "1C",
+            "row": 1,
+            "number": "C",
+            "class": "business",
+            "status": "occupied",
+            "priceMarkup": 180.0
+          },
+          {
+            "id": "1D",
+            "row": 1,
+            "number": "D",
+            "class": "business",
+            "status": "occupied",
+            "priceMarkup": 180.0
+          },
+          {
+            "id": "1E",
+            "row": 1,
+            "number": "E",
+            "class": "business",
+            "status": "available",
+            "priceMarkup": 180.0
+          },
+          {
+            "id": "1F",
+            "row": 1,
+            "number": "F",
+            "class": "business",
+            "status": "available",
+            "priceMarkup": 180.0
+          },
+          {
+            "id": "2A",
+            "row": 2,
+            "number": "A",
+            "class": "premium",
+            "status": "available",
+            "priceMarkup": 75.0
+          },
+          {
+            "id": "2B",
+            "row": 2,
+            "number": "B",
+            "class": "premium",
+            "status": "occupied",
+            "priceMarkup": 75.0
+          },
+          {
+            "id": "2C",
+            "row": 2,
+            "number": "C",
+            "class": "premium",
+            "status": "available",
+            "priceMarkup": 75.0
+          },
+          {
+            "id": "2D",
+            "row": 2,
+            "number": "D",
+            "class": "premium",
+            "status": "available",
+            "priceMarkup": 75.0
+          },
+          {
+            "id": "2E",
+            "row": 2,
+            "number": "E",
+            "class": "premium",
+            "status": "occupied",
+            "priceMarkup": 75.0
+          },
+          {
+            "id": "2F",
+            "row": 2,
+            "number": "F",
+            "class": "premium",
+            "status": "available",
+            "priceMarkup": 75.0
+          },
+          {
+            "id": "3A",
+            "row": 3,
+            "number": "A",
+            "class": "economy",
+            "status": "occupied",
+            "priceMarkup": 0.0
+          },
+          {
+            "id": "3B",
+            "row": 3,
+            "number": "B",
+            "class": "economy",
+            "status": "available",
+            "priceMarkup": 0.0
+          },
+          {
+            "id": "3C",
+            "row": 3,
+            "number": "C",
+            "class": "economy",
+            "status": "available",
+            "priceMarkup": 0.0
+          },
+          {
+            "id": "3D",
+            "row": 3,
+            "number": "D",
+            "class": "economy",
+            "status": "available",
+            "priceMarkup": 0.0
+          },
+          {
+            "id": "3E",
+            "row": 3,
+            "number": "E",
+            "class": "economy",
+            "status": "available",
+            "priceMarkup": 0.0
+          },
+          {
+            "id": "3F",
+            "row": 3,
+            "number": "F",
+            "class": "economy",
+            "status": "occupied",
+            "priceMarkup": 0.0
+          }
+        ]
+      },
+      "airlineLogoUrl": "https://www.google.com/s2/favicons?domain=lufthansa.com&sz=128"
+    },
+    {
+      "id": "FL-1064",
+      "airline": "Lufthansa",
+      "airlineLogo": "feather",
+      "departureCity": "Frankfurt",
+      "departureCode": "FRA",
+      "arrivalCity": "Chicago",
+      "arrivalCode": "ORD",
+      "departureTime": "2026-07-15T17:00:00Z",
+      "arrivalTime": "2026-07-16T02:50:00Z",
+      "duration": "9h 50m",
+      "basePrice": 650.0,
+      "cabinLayout": {
+        "aircraft": "Boeing 747-8",
+        "rows": 11,
+        "configuration": "3-3",
+        "seats": [
+          {
+            "id": "1A",
+            "row": 1,
+            "number": "A",
+            "class": "business",
+            "status": "available",
+            "priceMarkup": 180.0
+          },
+          {
+            "id": "1B",
+            "row": 1,
+            "number": "B",
+            "class": "business",
+            "status": "available",
+            "priceMarkup": 180.0
+          },
+          {
+            "id": "1C",
+            "row": 1,
+            "number": "C",
+            "class": "business",
+            "status": "occupied",
+            "priceMarkup": 180.0
+          },
+          {
+            "id": "1D",
+            "row": 1,
+            "number": "D",
+            "class": "business",
+            "status": "occupied",
+            "priceMarkup": 180.0
+          },
+          {
+            "id": "1E",
+            "row": 1,
+            "number": "E",
+            "class": "business",
+            "status": "available",
+            "priceMarkup": 180.0
+          },
+          {
+            "id": "1F",
+            "row": 1,
+            "number": "F",
+            "class": "business",
+            "status": "available",
+            "priceMarkup": 180.0
+          },
+          {
+            "id": "2A",
+            "row": 2,
+            "number": "A",
+            "class": "premium",
+            "status": "available",
+            "priceMarkup": 75.0
+          },
+          {
+            "id": "2B",
+            "row": 2,
+            "number": "B",
+            "class": "premium",
+            "status": "occupied",
+            "priceMarkup": 75.0
+          },
+          {
+            "id": "2C",
+            "row": 2,
+            "number": "C",
+            "class": "premium",
+            "status": "available",
+            "priceMarkup": 75.0
+          },
+          {
+            "id": "2D",
+            "row": 2,
+            "number": "D",
+            "class": "premium",
+            "status": "available",
+            "priceMarkup": 75.0
+          },
+          {
+            "id": "2E",
+            "row": 2,
+            "number": "E",
+            "class": "premium",
+            "status": "occupied",
+            "priceMarkup": 75.0
+          },
+          {
+            "id": "2F",
+            "row": 2,
+            "number": "F",
+            "class": "premium",
+            "status": "available",
+            "priceMarkup": 75.0
+          },
+          {
+            "id": "3A",
+            "row": 3,
+            "number": "A",
+            "class": "economy",
+            "status": "occupied",
+            "priceMarkup": 0.0
+          },
+          {
+            "id": "3B",
+            "row": 3,
+            "number": "B",
+            "class": "economy",
+            "status": "available",
+            "priceMarkup": 0.0
+          },
+          {
+            "id": "3C",
+            "row": 3,
+            "number": "C",
+            "class": "economy",
+            "status": "available",
+            "priceMarkup": 0.0
+          },
+          {
+            "id": "3D",
+            "row": 3,
+            "number": "D",
+            "class": "economy",
+            "status": "available",
+            "priceMarkup": 0.0
+          },
+          {
+            "id": "3E",
+            "row": 3,
+            "number": "E",
+            "class": "economy",
+            "status": "available",
+            "priceMarkup": 0.0
+          },
+          {
+            "id": "3F",
+            "row": 3,
+            "number": "F",
+            "class": "economy",
+            "status": "occupied",
+            "priceMarkup": 0.0
+          }
+        ]
+      },
+      "airlineLogoUrl": "https://www.google.com/s2/favicons?domain=lufthansa.com&sz=128"
+    },
+    {
+      "id": "FL-1065",
+      "airline": "Lufthansa",
+      "airlineLogo": "feather",
+      "departureCity": "Frankfurt",
+      "departureCode": "FRA",
+      "arrivalCity": "Chicago",
+      "arrivalCode": "ORD",
+      "departureTime": "2026-07-15T19:00:00Z",
+      "arrivalTime": "2026-07-16T04:50:00Z",
+      "duration": "9h 50m",
+      "basePrice": 675.0,
+      "cabinLayout": {
+        "aircraft": "Boeing 747-8",
+        "rows": 11,
+        "configuration": "3-3",
+        "seats": [
+          {
+            "id": "1A",
+            "row": 1,
+            "number": "A",
+            "class": "business",
+            "status": "available",
+            "priceMarkup": 180.0
+          },
+          {
+            "id": "1B",
+            "row": 1,
+            "number": "B",
+            "class": "business",
+            "status": "available",
+            "priceMarkup": 180.0
+          },
+          {
+            "id": "1C",
+            "row": 1,
+            "number": "C",
+            "class": "business",
+            "status": "occupied",
+            "priceMarkup": 180.0
+          },
+          {
+            "id": "1D",
+            "row": 1,
+            "number": "D",
+            "class": "business",
+            "status": "occupied",
+            "priceMarkup": 180.0
+          },
+          {
+            "id": "1E",
+            "row": 1,
+            "number": "E",
+            "class": "business",
+            "status": "available",
+            "priceMarkup": 180.0
+          },
+          {
+            "id": "1F",
+            "row": 1,
+            "number": "F",
+            "class": "business",
+            "status": "available",
+            "priceMarkup": 180.0
+          },
+          {
+            "id": "2A",
+            "row": 2,
+            "number": "A",
+            "class": "premium",
+            "status": "available",
+            "priceMarkup": 75.0
+          },
+          {
+            "id": "2B",
+            "row": 2,
+            "number": "B",
+            "class": "premium",
+            "status": "occupied",
+            "priceMarkup": 75.0
+          },
+          {
+            "id": "2C",
+            "row": 2,
+            "number": "C",
+            "class": "premium",
+            "status": "available",
+            "priceMarkup": 75.0
+          },
+          {
+            "id": "2D",
+            "row": 2,
+            "number": "D",
+            "class": "premium",
+            "status": "available",
+            "priceMarkup": 75.0
+          },
+          {
+            "id": "2E",
+            "row": 2,
+            "number": "E",
+            "class": "premium",
+            "status": "occupied",
+            "priceMarkup": 75.0
+          },
+          {
+            "id": "2F",
+            "row": 2,
+            "number": "F",
+            "class": "premium",
+            "status": "available",
+            "priceMarkup": 75.0
+          },
+          {
+            "id": "3A",
+            "row": 3,
+            "number": "A",
+            "class": "economy",
+            "status": "occupied",
+            "priceMarkup": 0.0
+          },
+          {
+            "id": "3B",
+            "row": 3,
+            "number": "B",
+            "class": "economy",
+            "status": "available",
+            "priceMarkup": 0.0
+          },
+          {
+            "id": "3C",
+            "row": 3,
+            "number": "C",
+            "class": "economy",
+            "status": "available",
+            "priceMarkup": 0.0
+          },
+          {
+            "id": "3D",
+            "row": 3,
+            "number": "D",
+            "class": "economy",
+            "status": "available",
+            "priceMarkup": 0.0
+          },
+          {
+            "id": "3E",
+            "row": 3,
+            "number": "E",
+            "class": "economy",
+            "status": "available",
+            "priceMarkup": 0.0
+          },
+          {
+            "id": "3F",
+            "row": 3,
+            "number": "F",
+            "class": "economy",
+            "status": "occupied",
+            "priceMarkup": 0.0
+          }
+        ]
+      },
+      "airlineLogoUrl": "https://www.google.com/s2/favicons?domain=lufthansa.com&sz=128"
+    },
+    {
+      "id": "FL-1066",
+      "airline": "Lufthansa",
+      "airlineLogo": "feather",
+      "departureCity": "Frankfurt",
+      "departureCode": "FRA",
+      "arrivalCity": "Chicago",
+      "arrivalCode": "ORD",
+      "departureTime": "2026-07-15T21:00:00Z",
+      "arrivalTime": "2026-07-16T06:50:00Z",
+      "duration": "9h 50m",
+      "basePrice": 700.0,
+      "cabinLayout": {
+        "aircraft": "Boeing 747-8",
+        "rows": 11,
+        "configuration": "3-3",
+        "seats": [
+          {
+            "id": "1A",
+            "row": 1,
+            "number": "A",
+            "class": "business",
+            "status": "available",
+            "priceMarkup": 180.0
+          },
+          {
+            "id": "1B",
+            "row": 1,
+            "number": "B",
+            "class": "business",
+            "status": "available",
+            "priceMarkup": 180.0
+          },
+          {
+            "id": "1C",
+            "row": 1,
+            "number": "C",
+            "class": "business",
+            "status": "occupied",
+            "priceMarkup": 180.0
+          },
+          {
+            "id": "1D",
+            "row": 1,
+            "number": "D",
+            "class": "business",
+            "status": "occupied",
+            "priceMarkup": 180.0
+          },
+          {
+            "id": "1E",
+            "row": 1,
+            "number": "E",
+            "class": "business",
+            "status": "available",
+            "priceMarkup": 180.0
+          },
+          {
+            "id": "1F",
+            "row": 1,
+            "number": "F",
+            "class": "business",
+            "status": "available",
+            "priceMarkup": 180.0
+          },
+          {
+            "id": "2A",
+            "row": 2,
+            "number": "A",
+            "class": "premium",
+            "status": "available",
+            "priceMarkup": 75.0
+          },
+          {
+            "id": "2B",
+            "row": 2,
+            "number": "B",
+            "class": "premium",
+            "status": "occupied",
+            "priceMarkup": 75.0
+          },
+          {
+            "id": "2C",
+            "row": 2,
+            "number": "C",
+            "class": "premium",
+            "status": "available",
+            "priceMarkup": 75.0
+          },
+          {
+            "id": "2D",
+            "row": 2,
+            "number": "D",
+            "class": "premium",
+            "status": "available",
+            "priceMarkup": 75.0
+          },
+          {
+            "id": "2E",
+            "row": 2,
+            "number": "E",
+            "class": "premium",
+            "status": "occupied",
+            "priceMarkup": 75.0
+          },
+          {
+            "id": "2F",
+            "row": 2,
+            "number": "F",
+            "class": "premium",
+            "status": "available",
+            "priceMarkup": 75.0
+          },
+          {
+            "id": "3A",
+            "row": 3,
+            "number": "A",
+            "class": "economy",
+            "status": "occupied",
+            "priceMarkup": 0.0
+          },
+          {
+            "id": "3B",
+            "row": 3,
+            "number": "B",
+            "class": "economy",
+            "status": "available",
+            "priceMarkup": 0.0
+          },
+          {
+            "id": "3C",
+            "row": 3,
+            "number": "C",
+            "class": "economy",
+            "status": "available",
+            "priceMarkup": 0.0
+          },
+          {
+            "id": "3D",
+            "row": 3,
+            "number": "D",
+            "class": "economy",
+            "status": "available",
+            "priceMarkup": 0.0
+          },
+          {
+            "id": "3E",
+            "row": 3,
+            "number": "E",
+            "class": "economy",
+            "status": "available",
+            "priceMarkup": 0.0
+          },
+          {
+            "id": "3F",
+            "row": 3,
+            "number": "F",
+            "class": "economy",
+            "status": "occupied",
+            "priceMarkup": 0.0
+          }
+        ]
+      },
+      "airlineLogoUrl": "https://www.google.com/s2/favicons?domain=lufthansa.com&sz=128"
+    }
+  ]
+}

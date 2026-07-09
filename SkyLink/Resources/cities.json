@@ -1,0 +1,24 @@
+{
+  "cities": [
+    { "name": "New York", "code": "JFK" },
+    { "name": "London", "code": "LHR" },
+    { "name": "Paris", "code": "CDG" },
+    { "name": "San Francisco", "code": "SFO" },
+    { "name": "Tokyo", "code": "HND" },
+    { "name": "Dubai", "code": "DXB" },
+    { "name": "Doha", "code": "DOH" },
+    { "name": "Singapore", "code": "SIN" },
+    { "name": "Los Angeles", "code": "LAX" },
+    { "name": "Frankfurt", "code": "FRA" },
+    { "name": "Chicago", "code": "ORD" },
+    { "name": "Sydney", "code": "SYD" },
+    { "name": "Hong Kong", "code": "HKG" },
+    { "name": "Amsterdam", "code": "AMS" },
+    { "name": "Toronto", "code": "YYZ" },
+    { "name": "Mumbai", "code": "BOM" },
+    { "name": "Delhi", "code": "DEL" },
+    { "name": "Bangkok", "code": "BKK" },
+    { "name": "Istanbul", "code": "IST" },
+    { "name": "Rome", "code": "FCO" }
+  ]
+}
